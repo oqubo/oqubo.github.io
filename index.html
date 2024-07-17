@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Documento de Ejemplo</title>
+    <title>oqubo</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap" rel="stylesheet">
     <style>
         body {
@@ -11,15 +11,27 @@
             text-align: center;
             margin-top: 50px;
         }
+        div {
+            font-size: 48px; 
+        }
         img {
             margin-top: 50px;
-            width: 100%; /* Ajusta el tamaño según lo necesites */
+            width: 100%; 
             height: auto;
+        }
+        img.logo {
+            width: 150px; /* Ancho del logo */
+            object-fit: cover; /* Asegura que el contenido se ajuste sin distorsionar */
         }
     </style>
 </head>
 <body>
+    <!-- Logo en la parte superior de la página -->
+    <img src="logo.png" alt="Logo" class="logo">
+    </br></br></br>
+
     <div>oqubo</div>
+
     <!-- Referencia al SVG como un archivo externo -->
     <img src="olas.svg" alt="Descripción del SVG">
 </body>
