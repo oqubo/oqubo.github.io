@@ -1,0 +1,22 @@
+[
+    {
+        "enunciado": "¿Cuál es la capital de Francia?",
+        "opciones": {
+            "a": "Berlín",
+            "b": "Madrid",
+            "c": "París",
+            "d": "Lisboa"
+        },
+        "respuesta_correcta": "c"
+    },
+    {
+        "enunciado": "¿Cuál es el resultado de 2 + 2?",
+        "opciones": {
+            "a": "3",
+            "b": "4",
+            "c": "5",
+            "d": "6"
+        },
+        "respuesta_correcta": "b"
+    }
+]

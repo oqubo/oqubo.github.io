@@ -1,0 +1,12 @@
+document.write('<footer id="footer">');
+document.write('    <div class="container">');
+document.write('        <div class="row">');
+document.write('          <div class="col-sm-12">');
+document.write('                <div class="copyright-text text-center">');
+document.write('                  <p><img src="images/logo.png" width="100px" alt="logo"></p>');
+document.write('                    <p style="font-family: \'Quicksand\', sans-serif;">oqubo</p>');
+document.write('                </div>');
+document.write('            </div>');
+document.write('        </div>');
+document.write('    </div>');
+document.write('</footer>');

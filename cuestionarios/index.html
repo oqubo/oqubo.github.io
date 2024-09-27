@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entrenamiento para Examen</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* Estilos personalizados (opcional) */
+        body {
+            background-color: #f8f9fa;
+        }
+        .card {
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .list-group-item.active {
+            background-color: #0d6efd;
+            border-color: #0d6efd;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <div id="menu-container" class="card">
+            <div class="card-body">
+                <h5 class="card-title">Selecciona una categoría</h5>
+                <p>Se generarán mini tests de 5 preguntas aleatorias.</p>
+                <div class="list-group">
+                    <button class="list-group-item list-group-item-action" onclick="cargarPreguntas('legislacion.json')">Legislación</button>
+                    <button class="list-group-item list-group-item-action" onclick="cargarPreguntas('comun.json')">Común</button>
+                    <button class="list-group-item list-group-item-action" onclick="cargarPreguntas('auxiliar_administrativo_2018.json')">Auxiliar Administrativo 2018</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="pregunta-container" class="card" style="display: none;">
+            <div class="card-body">
+                <h5 id="enunciado" class="card-title">Pregunta aparecerá aquí</h5>
+                <div id="opciones" class="list-group">
+                    <!-- Opciones de respuesta -->
+                </div>
+                <div id="resultado" class="mt-3"></div>
+                <button id="siguiente" class="btn btn-primary mt-3" style="display: none;">Siguiente Pregunta</button>
+                <button id="volver" class="btn btn-secondary mt-3 ms-2" onclick="volverAlMenu()">Volver al Menú</button>
+            </div>
+        </div>
+
+        <div id="resultados-container" class="card" style="display: none;">
+            <div class="card-body">
+                <h5 class="card-title">Resultados del Test</h5>
+                <div id="resultados" class="mt-3">
+                    <!-- Resultados del test -->
+                </div>
+                <button class="btn btn-primary mt-3" onclick="volverAlMenu()">Volver al Menú</button>
+                <button class="btn btn-success mt-3 ms-2" onclick="generarNuevoTest()">Generar Nuevo Test</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS Bundle (Incluye Popper) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        let preguntas = [];
+        let preguntaActual = 0;
+        let puntuacion = 0;
+        let incorrectas = 0;
+        let categoriaSeleccionada = '';
+
+        function cargarPreguntas(jsonFile) {
+            categoriaSeleccionada = jsonFile;
+            fetch(jsonFile)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Error al cargar el archivo JSON');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    preguntas = seleccionarPreguntasAleatorias(data, 5);
+                    preguntaActual = 0;
+                    puntuacion = 0;
+                    incorrectas = 0;
+                    document.getElementById('resultado').textContent = '';
+                    mostrarPregunta();
+                    document.getElementById('menu-container').style.display = 'none';
+                    document.getElementById('pregunta-container').style.display = 'block';
+                    document.getElementById('resultados-container').style.display = 'none';
+                })
+                .catch(error => console.error('Error al cargar el JSON:', error));
+        }
+
+        function seleccionarPreguntasAleatorias(array, num) {
+            const shuffled = array.sort(() => 0.5 - Math.random());
+            return shuffled.slice(0, num);
+        }
+
+        function mostrarPregunta() {
+            const pregunta = preguntas[preguntaActual];
+            const numeroPregunta = pregunta.numero !== undefined ? pregunta.numero : preguntaActual + 1;
+            document.getElementById('enunciado').textContent = `Pregunta ${numeroPregunta}: ${pregunta.enunciado}`;
+            const opcionesContainer = document.getElementById('opciones');
+            opcionesContainer.innerHTML = '';
+            for (const [key, value] of Object.entries(pregunta.opciones)) {
+                const opcionElemento = document.createElement('button');
+                opcionElemento.className = 'list-group-item list-group-item-action';
+                opcionElemento.textContent = `${key}: ${value}`;
+                opcionElemento.onclick = () => enviarRespuesta(key);
+                opcionesContainer.appendChild(opcionElemento);
+            }
+            document.getElementById('siguiente').style.display = 'none';
+        }
+
+        function enviarRespuesta(opcion) {
+            const pregunta = preguntas[preguntaActual];
+            const resultado = document.getElementById('resultado');
+            if (opcion === pregunta.respuesta_correcta) {
+                resultado.textContent = '¡Correcto!';
+                resultado.className = 'text-success';
+                puntuacion++;
+            } else {
+                resultado.textContent = `Incorrecto. La respuesta correcta es: ${pregunta.respuesta_correcta}`;
+                resultado.className = 'text-danger';
+                incorrectas++;
+            }
+            document.getElementById('siguiente').style.display = 'block';
+        }
+
+        function siguientePregunta() {
+            preguntaActual++;
+            if (preguntaActual < preguntas.length) {
+                document.getElementById('resultado').textContent = '';
+                mostrarPregunta();
+            } else {
+                mostrarResultados();
+            }
+        }
+
+        function mostrarResultados() {
+            const totalPreguntas = preguntas.length;
+            const porcentaje = ((puntuacion / totalPreguntas) * 100).toFixed(2);
+            const resultadosContainer = document.getElementById('resultados');
+            resultadosContainer.innerHTML = `
+                <div><strong>Puntuación:</strong> ${puntuacion}</div>
+                <div><strong>Incorrectas:</strong> ${incorrectas}</div>
+                <div><strong>Porcentaje de Aciertos:</strong> ${porcentaje}%</div>
+            `;
+            document.getElementById('pregunta-container').style.display = 'none';
+            document.getElementById('resultados-container').style.display = 'block';
+        }
+
+        function volverAlMenu() {
+            document.getElementById('pregunta-container').style.display = 'none';
+            document.getElementById('menu-container').style.display = 'block';
+            document.getElementById('resultados-container').style.display = 'none';
+        }
+
+        function generarNuevoTest() {
+            cargarPreguntas(categoriaSeleccionada);
+        }
+
+        document.getElementById('siguiente').onclick = siguientePregunta;
+
+        // Mostrar el menú inicial al cargar la página
+        volverAlMenu();
+    </script>
+</body>
+</html>

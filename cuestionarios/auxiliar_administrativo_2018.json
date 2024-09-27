@@ -1,0 +1,211 @@
+[
+    {
+        "numero": 1,
+        "enunciado": "Señale la afirmación correcta, según el artículo 14 de la Constitución Española:",
+        "opciones": {
+            "a": "Los españoles y extranjeros son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+            "b": "Los extranjeros son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+            "c": "Todas las personas son iguales ante la ley sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+            "d": "Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social."
+        },
+        "respuesta_correcta": "d"
+    },
+    {
+        "numero": 2,
+        "enunciado": "A tenor de lo dispuesto en el artículo 54 de la Constitución Española, el Defensor del Pueblo como alto comisionado de las Cortes Generales es designado para la defensa de:",
+        "opciones": {
+            "a": "Los derechos y deberes del Título I de la Constitución Española.",
+            "b": "Derechos del Título I de la Constitución Española.",
+            "c": "Derechos de los Títulos I y II de la Constitución Española.",
+            "d": "Derechos y deberes orgánicos de los Títulos I y II de la Constitución Española."
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "numero": 3,
+        "enunciado": "Según el artículo 140 de la Constitución Española, ésta garantiza la autonomía de los municipios. Su gobierno y administración corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales:",
+        "opciones": {
+            "a": "Los concejales serán elegidos por los diputados elegidos en los municipios.",
+            "b": "Los concejales serán elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto.",
+            "c": "Los concejales serán elegidos entre los vecinos.",
+            "d": "Los concejales serán elegidos por el Alcalde, entre los portavoces de los grupos políticos."
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "numero": 4,
+        "enunciado": "Según el artículo 2 del Estatuto de Autonomía para Cantabria, ¿Dónde tendrán su sede las instituciones de autogobierno?",
+        "opciones": {
+            "a": "No viene regulado en el Estatuto de Autonomía de Cantabria.",
+            "b": "Podrán estar situadas en cualquier municipio de Cantabria.",
+            "c": "En Santander.",
+            "d": "En Santander y Torrelavega."
+        },
+        "respuesta_correcta": "c"
+    },
+    {
+        "numero": 5,
+        "enunciado": "Según establece el artículo 12 del Estatuto de Autonomía para Cantabria, el Parlamento de Cantabria funcionará en Pleno y en Comisiones y se reunirá en sesiones ordinarias o extraordinarias. Los períodos ordinarios de sesiones serán:",
+        "opciones": {
+            "a": "Entre septiembre y diciembre, el primero, y entre febrero y junio, el segundo.",
+            "b": "Entre noviembre y diciembre, el primero, y entre febrero y julio, el segundo.",
+            "c": "Entre septiembre y julio.",
+            "d": "Entre septiembre y enero, el primero y entre febrero a junio, el segundo."
+        },
+        "respuesta_correcta": "a"
+    },
+    {
+        "numero": 6,
+        "enunciado": "Según se establece en el artículo 12 del Estatuto de Autonomía para Cantabria, señale la respuesta correcta:",
+        "opciones": {
+            "a": "Los acuerdos en el Parlamento de Cantabria se adoptarán por mayoría de 2/3 de los Diputados y Diputadas presentes si el Estatuto, las Leyes o el Reglamento no exigen otras mayorías más cualificadas.",
+            "b": "Los acuerdos en el Parlamento de Cantabria se adoptarán por mayoría de los Diputados y Diputadas presentes si el Estatuto, las Leyes o el Reglamento no exigen otras mayorías más cualificadas.",
+            "c": "Los acuerdos en el Parlamento de Cantabria se adoptarán por mayoría 3/5 de los Diputados y Diputadas presentes si el Estatuto, las Leyes o el Reglamento no exigen otras mayorías más cualificadas.",
+            "d": "Los acuerdos en el Parlamento de Cantabria se adoptarán por mayoría de 1/3 de los Diputados y Diputadas presentes si el Estatuto, las Leyes o el Reglamento no exigen otras mayorías más cualificadas."
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "numero": 7,
+        "enunciado": "Según lo dispuesto en el artículo 15 del Estatuto de Autonomía para Cantabria, las leyes de Cantabria serán promulgadas, en nombre del Rey, por el Presidente de la Comunidad Autónoma y publicadas en el «Boletín Oficial de Cantabria» y en el «Boletín Oficial del Estado».",
+        "opciones": {
+            "a": "Y entrarán en vigor al día siguiente de su publicación en el «Boletín Oficial de Cantabria», salvo que la propia ley establezca otro plazo.",
+            "b": "Y entrarán en vigor al mes de su publicación en el «Boletín Oficial de Cantabria», salvo que la propia ley establezca otro plazo.",
+            "c": "Entrarán en vigor a los veinte días de su publicación en el «Boletín Oficial del Estado», salvo que la propia ley establezca otro plazo.",
+            "d": "Y entrarán en vigor a los veinte días de su publicación en el «Boletín Oficial de Cantabria», salvo que la propia ley establezca otro plazo."
+        },
+        "respuesta_correcta": "d"
+    },
+    {
+        "numero": 8,
+        "enunciado": "Señale la respuesta INCORRECTA, según está regulado en el artículo 19 del Estatuto de Autonomía para Cantabria:",
+        "opciones": {
+            "a": "El Gobierno cesa tras la celebración de elecciones al Parlamento.",
+            "b": "El Gobierno cesa por dimisión, incapacidad o fallecimiento de su Presidente.",
+            "c": "El Gobierno cesa por dimisión, incapacidad o fallecimiento de cualquiera de sus miembros.",
+            "d": "El Gobierno cesa por la pérdida de confianza del Parlamento o la adopción por éste de una moción de censura."
+        },
+        "respuesta_correcta": "c"
+    },
+    {
+        "numero": 9,
+        "enunciado": "Según establece el Estatuto de Autonomía para Cantabria en su artículo 25, señale la respuesta CORRECTA. La sanidad e higiene, promoción, prevención y restauración de la salud. Coordinación hospitalaria en general, incluida la de la Seguridad Social.",
+        "opciones": {
+            "a": "En estas materias Cantabria tiene competencia exclusiva.",
+            "b": "En estas materias Cantabria tiene competencia para el desarrollo legislativo y la ejecución.",
+            "c": "En estas materias Cantabria tiene exclusivamente la función ejecutiva.",
+            "d": "Las respuestas A, B y C son ciertas."
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "numero": 10,
+        "enunciado": "Según el artículo 38 de la Ley 5/2018, de 22 de noviembre, de Régimen Jurídico del Gobierno, de la Administración y del Sector Público Institucional de la Comunidad Autónoma de Cantabria. Señale la respuesta INCORRECTA:",
+        "opciones": {
+            "a": "La delegación temporal de funciones exime de responsabilidad política tanto al Presidente como a otros miembros del Gobierno, por el hecho de existir esa delegación.",
+            "b": "El Gobierno responde solidariamente ante el Parlamento, sin perjuicio de la responsabilidad directa de cada uno de sus componentes por su gestión.",
+            "c": "La delegación temporal de funciones del Presidente o de otros miembros del Gobierno no les exime de su responsabilidad política.",
+            "d": "La responsabilidad política del Gobierno es exigible por medio de la moción de censura o la cuestión de confianza."
+        },
+        "respuesta_correcta": "a"
+    },
+    {
+        "numero": 11,
+        "enunciado": "Señale la respuesta correcta según el artículo 10 de la Ley 5/2018, de 22 de noviembre, de Régimen Jurídico del Gobierno, de la Administración y del Sector Público Institucional de la Comunidad Autónoma de Cantabria entre las atribuciones como supremo representante de la Comunidad Autónoma corresponde al Presidente:",
+        "opciones": {
+            "a": "Acordar la disolución del Parlamento, convocar elecciones al Parlamento de Cantabria, así como convocar al Parlamento electo en los términos establecidos en el Estatuto de Autonomía y la normativa aplicable en la materia.",
+            "b": "Las respuestas A, C y D son correctas.",
+            "c": "Firmar los convenios y acuerdos de cooperación que la Comunidad Autónoma de Cantabria celebre con otras Comunidades Autónomas.",
+            "d": "Mantener relaciones con las demás instituciones del Estado y sus Administraciones."
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "numero": 12,
+        "enunciado": "Según el artículo 20 de la Ley 5/2018, de 22 de noviembre, de Régimen Jurídico del Gobierno, de la Administración y del Sector Público Institucional de la Comunidad Autónoma de Cantabria. El Gobierno está integrado por:",
+        "opciones": {
+            "a": "El Presidente y los Consejeros exclusivamente.",
+            "b": "Los Consejeros.",
+            "c": "El Presidente, el Vicepresidente y los consejeros necesariamente.",
+            "d": "El Presidente, el Vicepresidente, en su caso, y los Consejeros."
+        },
+        "respuesta_correcta": "d"
+    },
+    {
+        "numero": 13,
+        "enunciado": "La Ley 5/2018, de 22 de noviembre, de Régimen Jurídico del Gobierno, de la Administración y del Sector Público Institucional de la Comunidad Autónoma de Cantabria, define en su artículo 21 las atribuciones que corresponden al Gobierno, entre las que están:",
+        "opciones": {
+            "a": "Resolver los conflictos de competencias entre distintas Consejerías cuando no se hubiese alcanzado acuerdo entre sus titulares, oído el Consejo de Gobierno.",
+            "b": "C y D son ciertas.",
+            "c": "Elaborar y aprobar el proyecto de Ley de Presupuestos Generales de la Comunidad Autónoma y remitirlo al Parlamento para su debate, enmienda y aprobación como ley, así como su aplicación.",
+            "d": "Aprobar las estructuras orgánicas de las Consejerías de la Administración de la Comunidad Autónoma de Cantabria."
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "numero": 14,
+        "enunciado": "Señale la respuesta INCORRECTA de acuerdo a lo establecido en el artículo 33 de la Ley 5/2018, de 22 de noviembre, de Régimen Jurídico del Gobierno, de la Administración y del Sector Público Institucional de la Comunidad Autónoma de Cantabria. Los Consejeros, en razón de su cargo, tendrán derecho a:",
+        "opciones": {
+            "a": "Percibir la remuneración que se consigne en los Presupuestos Generales de la Comunidad Autónoma de Cantabria, así como disponer de los medios que se requieran para el ejercicio de su cargo.",
+            "b": "Que les sean rendidos los honores y respetadas las precedencias que señalen las normas protocolarias establecidas.",
+            "c": "El examen de todos los asuntos que vayan a someterse a aprobación del Consejo de Gobierno, excepto aquellos que, por razones de urgencia, se sometan directamente a la consideración del Consejo de Gobierno.",
+            "d": "Recibir los honores especiales que les correspondan cuando actúen en representación expresa del Presidente."
+        },
+        "respuesta_correcta": "c"
+    },
+    {
+        "numero": 15,
+        "enunciado": "Según lo establecido en el artículo 17 de la Ley 40/2015 de 1 de octubre de Régimen Jurídico del Sector Público, acerca de la convocatoria y sesiones de los órganos colegiados, señale la respuesta CORRECTA:",
+        "opciones": {
+            "a": "Cuando los miembros del órgano voten a favor, quedarán exentos de la responsabilidad que, en su caso, pueda derivarse de los acuerdos.",
+            "b": "Podrá ser objeto de deliberación o acuerdo cualquier asunto que no figure incluido en el orden del día, salvo que asistan la mayoría de los miembros del órgano colegiado y sea declarada la emergencia sobre el asunto.",
+            "c": "Todos los órganos colegiados se podrán constituir, convocar, celebrar sus sesiones, adoptar acuerdos y remitir actas tanto de forma presencial como a distancia, salvo que su reglamento interno recoja expresa y excepcionalmente lo contrario.",
+            "d": "Para la válida constitución del órgano, a efectos de la celebración de sesiones, deliberaciones y toma de acuerdos, se requerirá la asistencia, presencial o a distancia, del Secretario o en su caso, de quien le sustituya, o de la mitad, al menos, de sus miembros."
+        },
+        "respuesta_correcta": "c"
+    },
+    {
+        "numero": 16,
+        "enunciado": "Señale la respuesta INCORRECTA conforme a lo establecido en el artículo 23 de la Ley 40/2015 de 1 de octubre de Régimen Jurídico del Sector Público, en relación con la abstención de autoridades y personal de intervenir en el procedimiento administrativo de que se trate:",
+        "opciones": {
+            "a": "Tener relación de servicio con persona natural o jurídica interesada directamente en el asunto, o haberle prestado en los dos últimos años servicios profesionales de cualquier tipo y en cualquier circunstancia o lugar.",
+            "b": "Haber intervenido como perito o como testigo en el procedimiento de que se trate.",
+            "c": "La actuación de autoridades y personal al servicio de las Administraciones Públicas en los que concurran motivos de abstención implicará, necesariamente, y en todo caso, la invalidez de los actos en que hayan intervenido.",
+            "d": "El parentesco de consanguinidad dentro del cuarto grado o de afinidad dentro del segundo, con cualquiera de los interesados, con los administradores de entidades o sociedades interesadas y también con los asesores, representantes legales o mandatarios que intervengan en el procedimiento."
+        },
+        "respuesta_correcta": "c"
+    },
+    {
+        "numero": 17,
+        "enunciado": "Conforme a lo establecido en el artículo 27 de la Ley 40/2015 de 1 de octubre de Régimen Jurídico del Sector Público, dentro de los principios de la potestad sancionadora se regula el principio de tipicidad, señale la respuesta correcta:",
+        "opciones": {
+            "a": "Las infracciones administrativas se clasificarán por la Ley en graves y muy graves.",
+            "b": "Sólo constituyen infracciones administrativas las vulneraciones del ordenamiento jurídico previstas como tales infracciones por una Ley, sin perjuicio de lo regulado para la administración local en el Título XI de la Ley 7/1985, de 2 de abril.",
+            "c": "Únicamente por la comisión de infracciones administrativas podrán imponerse sanciones que, en todo caso, estarán delimitadas por la Orden Ministerial o del Consejero correspondiente.",
+            "d": "Las normas definidoras de infracciones y sanciones serán susceptibles de aplicación analógica."
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "numero": 18,
+        "enunciado": "Conforme a lo establecido en el artículo 28 de la Ley 40/2015 de 1 de octubre de Régimen Jurídico del Sector Público, en relación con el principio de responsabilidad de la potestad sancionadora de las administraciones públicas, señale la respuesta CORRECTA:",
+        "opciones": {
+            "a": "Cuando el cumplimiento de una obligación establecida por una norma con rango de Ley corresponda a varias personas conjuntamente, responderán de forma subsidiaria de las infracciones que, en su caso, se cometan y de las sanciones que se impongan.",
+            "b": "Las personas jurídicas nunca podrán ser sancionadas.",
+            "c": "Sólo podrán ser sancionadas por hechos constitutivos de infracción administrativa las personas físicas.",
+            "d": "Las responsabilidades administrativas que se deriven de la comisión de una infracción serán compatibles con la exigencia al infractor de la reposición de la situación alterada por el mismo a su estado originario, así como con la indemnización por los daños y perjuicios causados."
+        },
+        "respuesta_correcta": "d"
+    },
+    {
+        "numero": 19,
+        "enunciado": "Según la Ley 40/2015 en su artículo 30 fija entre otros los plazos de prescripción de las infracciones y sanciones y establece que prescribirán según lo dispuesto en las leyes que las establezcan. Si éstas no fijan plazos de prescripción, señale la respuesta CORRECTA:",
+        "opciones": {
+            "a": "Las infracciones muy graves prescribirán a los 3 años y las sanciones impuestas prescribirán a los 3 años.",
+            "b": "Las infracciones muy graves prescribirán a los 3 años y las sanciones impuestas prescribirán a los 2 años.",
+            "c": "Las infracciones graves prescribirán a los 2 años y las sanciones impuestas prescribirán al año.",
+            "d": "Las infracciones leves prescribirán a los 6 meses y las sanciones impuestas prescribirán a los 6 meses."
+        },
+        "respuesta_correcta": "a"
+    }
+]
