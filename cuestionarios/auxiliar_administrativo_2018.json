@@ -207,5 +207,412 @@
             "d": "Las infracciones leves prescribirán a los 6 meses y las sanciones impuestas prescribirán a los 6 meses."
         },
         "respuesta_correcta": "a"
-    }
+    },
+    {
+        "numero": 20,
+        "enunciado": "El Decreto 42/2019, de 28 de marzo, por el que se regula el Régimen Jurídico y Organizativo de la Atención Ciudadana y del ejercicio de la Función Administrativa de Registro en la Administración de la Comunidad Autónoma de Cantabria, en su artículo 7 incluye entre su información administrativa general, señale la respuesta CORRECTA:",
+        "opciones": {
+            "a": "B y D son ciertas",
+            "b": "La estructura organizativa y el ámbito competencial, incluyendo el directorio de los órganos, unidades administrativas, organismos públicos y entidades de derecho público vinculadas o dependientes, así como sus horarios",
+            "c": "Información concreta sobre una autorización otorgada a un particular y personal responsable de su tramitación, una vez terminado el procedimiento.",
+            "d": "Las convocatorias de ofertas públicas de empleo y el seguimiento del proceso"
+        },
+        "respuesta_correcta": "a"
+    },
+    {
+        "numero": 21,
+        "enunciado": "Según el artículo 11 del Decreto 42/2019 de 28 de marzo por el que se regula el régimen jurídico y organizativo de la atención ciudadana y del ejercicio de la función administrativa de registro en la Administración de la C. A. de Cantabria, la solicitud de información administrativa que se realice ante la Oficina de Atención a la Ciudadanía, señale la respuesta CORRECTA:",
+        "opciones": {
+            "a": "Será facilitada de inmediato, a ser posible, o en el plazo máximo de diez días si resultase necesario realizar la consulta a otro órgano o unidad",
+            "b": "Será facilitada de inmediato, a ser posible, o en el plazo máximo de quince días si resultase necesario realizar la consulta a otro órgano o unidad",
+            "c": "Será facilitada de inmediato, a ser posible, o en el plazo máximo de 1 mes si resultase necesario realizar la consulta a otro órgano o unidad",
+            "d": "Será facilitada de inmediato, a ser posible, o en el plazo máximo de veinte días si resultase necesario realizar la consulta a otro órgano o unidad"
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+    "numero": 22,
+    "enunciado": "Según el artículo 13 del Decreto 42/2019, de 28 de marzo, por el que se regula el Régimen Jurídico y Organizativo de la Atención Ciudadana y del ejercicio de la Función Administrativa de Registro en la Administración de la Comunidad Autónoma de Cantabria, la atención ciudadana se prestará por medio de los siguientes canales, señale la respuesta INCORRECTA:",
+    "opciones": {
+        "a": "Presencial",
+        "b": "Boletín Oficial de Cantabria",
+        "c": "Correo electrónico",
+        "d": "Por internet, a través del portal web institucional cabecera de la Comunidad Autónoma de Cantabria, identificado por la URL www.cantabria.es"
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 23,
+    "enunciado": "Según el Decreto 42/2019, de 28 de marzo, por el que se regula el Régimen Jurídico y Organizativo de la Atención Ciudadana y del ejercicio de la Función Administrativa de Registro en la Administración de la Comunidad Autónoma de Cantabria, Las Oficinas Delegadas y las Oficinas Especializadas de Atención Ciudadana son aquellas que, sin perjuicio de las actividades de gestión que realicen, prestan los servicios de información y atención ciudadana respecto a las funciones que tienen asignadas, señale la respuesta CORRECTA:",
+    "opciones": {
+        "a": "Cada Consejería podrá contar con varias Oficinas Delegadas de Atención Ciudadana y Oficinas Especializadas tantas como considere necesarias, adscritas a su respectiva Secretaria General",
+        "b": "Cada Consejería podrá contar con una Oficina Delegada de Atención Ciudadana, adscrita a su respectiva secretaría general. Asimismo, se podrán crear las oficinas especializadas que se consideren funcionalmente necesarias",
+        "c": "Cada Consejería podrá contar las Oficinas Diferidas que se consideren funcionalmente necesarias",
+        "d": "Cada Consejería solo podrá contar con Oficinas Delegadas de Atención Ciudadana adscritas a su respectiva Secretaria General , ya que las Oficinas Especializadas se encuentran en los Organismos Autónomos"
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 24,
+    "enunciado": "De acuerdo con artículo 28 del Decreto 42/2019 de 28 de marzo por el que se regula el Régimen Jurídico y Organizativo de la Atención Ciudadana y del ejercicio de la Función Administrativa de Registro en la Administración de la Comunidad Autónoma de Cantabria, toda solicitud, escrito o comunicación y la documentación complementaria que les acompañe, dirigida a cualquier órgano de la Administración de la Comunidad Autónoma de Cantabria podrá presentarse:",
+    "opciones": {
+        "a": "En los Registros de las Universidades públicas",
+        "b": "En las oficinas de correos, en la forma establecida por la propia Sociedad Estatal",
+        "c": "En las representaciones diplomáticas u oficinas consulares de España en los país sólo con convenios bilaterales",
+        "d": "En cualquier entidad, dependiente o independiente de las Administraciones Públicas"
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 25,
+    "enunciado": "El Decreto 42/2019, de 28 de marzo, por el que se regula el Régimen Jurídico y Organizativo de la Atención Ciudadana y del ejercicio de la Función Administrativa de Registro en la Administración de la Comunidad Autónoma de Cantabria, establece que el Registro Electrónico General estará disponible las veinticuatro horas, todos los días del año. En aplicación de la normativa estatal básica, cuando un día fuese hábil en la Comunidad Autónoma de Cantabria donde reside el interesado, e inhábil en la sede del órgano administrativo donde se dirija la solicitud, escrito o comunicación, se considerará:",
+    "opciones": {
+        "a": "Hábil o inhábil, según lo considere el interesado que presenta la solicitud, escrito o comunicación",
+        "b": "Hábil o inhábil, en función del calendario de días hábiles e inhábiles a efectos de cómputos de plazos, publicado en la sede electrónica del órgano administrativo donde se dirija la solicitud, escrito o comunicación",
+        "c": "Inhábil en todo caso",
+        "d": "Hábil para cualquier procedimiento"
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 26,
+    "enunciado": "De acuerdo con el artículo 32 del Decreto 42/2019, de 28 de marzo, por el que se regula el Régimen Jurídico y Organizativo de la Atención Ciudadana y del ejercicio de la Función Administrativa de Registro en la Administración de la Comunidad Autónoma de Cantabria, en caso de denegación de registro presencial de entrada de documentación:",
+    "opciones": {
+        "a": "La oficina de asistencia en materia de registro donde se presente esta documentación deberá emitir un certificado para hacer constar la causa de la denegación",
+        "b": "La persona interesada podrá solicitar un certificado que haga constar la causa de la denegación",
+        "c": "La recepción del certificado de denegación emitido por la oficina de asistencia en materia de registro deberá ser firmado por la persona interesada",
+        "d": "Las respuestas b y c son correctas"
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 27,
+    "enunciado": "Según el artículo 42 del Decreto 42/2019, de 28 de marzo, por el que se regula el Régimen Jurídico y Organizativo de la Atención Ciudadana y del ejercicio de la Función Administrativa de Registro en la Administración de la Comunidad Autónoma de Cantabria, NO es función de las oficinas en materia de registro:",
+    "opciones": {
+        "a": "La expedición de copias auténticas electrónicas de documentos en soporte electrónico o en papel que presenten las personas interesadas junto con su solicitud o escrito",
+        "b": "La asistencia en el uso de medios electrónicos para la presentación de solicitudes y escritos a través del Registro Electrónico General, a las personas interesadas obligadas a relacionarse electrónicamente con la Administración",
+        "c": "Asistencia a las personas interesadas que no estén obligadas a relacionarse electrónicamente con la Administración y que no dispongan de los medios electrónicos necesarios para su identificación o firma electrónica, mediante el sistema de firma electrónica de empleado público",
+        "d": "Inscripción, revocación, prórroga o denuncia de poderes en el registro general de apoderamientos"
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 28,
+    "enunciado": "Las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas, según el artículo 2.4 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+    "opciones": {
+        "a": "Quedarán sujetas a lo dispuesto en todas las normas de esta ley",
+        "b": "Quedarán sujetas a lo dispuesto en las normas de esta Ley que específicamente se refieran a las mismas y, en todo caso, cuando ejerzan potestades administrativas",
+        "c": "No están sujetas a lo dispuesto en las normas de esta Ley, salvo cuando ejerzan potestades administrativas",
+        "d": "No están sujetas a lo dispuesto en las normas de esta Ley"
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 29,
+    "enunciado": "La Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en su artículo 13, reconoce a quienes tengan capacidad de obrar ante las Administraciones Públicas, el derecho a comunicarse con las Administraciones Públicas a través de:",
+    "opciones": {
+        "a": "Un punto de acceso Central de la Administración",
+        "b": "Un punto Electrónico Central de la Administración",
+        "c": "Un punto de Acceso General Electrónico de la Administración",
+        "d": "Un punto de Acceso Único Electrónico de la Administración"
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 30,
+    "enunciado": "Conforme el artículo 27.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿cuándo podrán los interesados solicitar la expedición de copias auténticas de los documentos públicos administrativos que hayan sido válidamente emitidos por las Administraciones Públicas?",
+    "opciones": {
+        "a": "Únicamente en la fase de prueba",
+        "b": "En cualquier momento",
+        "c": "Exclusivamente en la fase de audiencia",
+        "d": "Sólo antes de la resolución del expediente administrativo"
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 31,
+    "enunciado": "Según dispone el artículo 5.6 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la falta o insuficiente acreditación de la representación no impedirá que se tenga por realizado el acto de que se trate, siempre que se aporte aquélla o se subsane el defecto dentro del plazo que deberá conceder al efecto el órgano administrativo, de:",
+    "opciones": {
+        "a": "Diez días, o de un plazo superior cuando las circunstancias del caso así lo requieran",
+        "b": "Quince días, o de un plazo superior cuando las circunstancias del caso así lo requieran",
+        "c": "Veinte días, o de un plazo superior cuando las circunstancias del caso así lo requieran",
+        "d": "Un mes, o de un plazo superior cuando las circunstancias del caso así lo requieran"
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 32,
+    "enunciado": "Conforme el artículo 2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Pública, se aplica:",
+    "opciones": {
+        "a": "Únicamente a la Administración General del Estado",
+        "b": "A la Administración General del Estado, las Administraciones de las Comunidades Autónomas y las Entidades que integran la administración Local, siendo supletoria para las entidades de derecho público vinculadas a las Administraciones Públicas",
+        "c": "A la Administración General del Estado, Comunidades Autónomas, Administración Local y Sector Público Institucional, siendo supletoria para las Corporaciones de Derecho Público",
+        "d": "A la Administración General del Estado, Comunidades Autónomas, Administración Local y Corporaciones de Derecho Público, siendo supletoria para el Sector Público Institucional"
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 33,
+    "enunciado": "Según el artículo 3 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, NO tienen capacidad de obrar ante las Administraciones Públicas:",
+    "opciones": {
+        "a": "Los menores de edad para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin la persona que ejerza la patria potestad, tutela o curatela.",
+        "b": "Las personas físicas que ostenten capacidad de obrar con arreglo a las normas civiles.",
+        "c": "Los patrimonios independientes o autónomos cuando un reglamento así lo declare expresamente",
+        "d": "Las uniones y entidades sin personalidad jurídica cuando la ley así lo declare expresamente"
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 34,
+    "enunciado": "Según el artículo 24 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas en los casos de desestimación de una solicitud por silencio administrativo, la resolución expresa posterior al vencimiento del plazo:",
+    "opciones": {
+        "a": "Sólo podrá ser estimatoria.",
+        "b": "Se adoptará sin vinculación alguna al sentido del silencio administrativo.",
+        "c": "Será nula de pleno derecho.",
+        "d": "Será anulable."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 35,
+    "enunciado": "Según el artículo 48.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas ¿qué implica la realización de actuaciones administrativas fuera del tiempo establecido para ellas?:",
+    "opciones": {
+        "a": "La nulidad de pleno derecho.",
+        "b": "La nulidad del acto cuando así lo disponga la naturaleza del término o plazo.",
+        "c": "La anulabilidad del acto en todo caso.",
+        "d": "La anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo."
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 36,
+    "enunciado": "Según el artículo 35 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿Cuáles de los siguientes actos NO requieren ser motivados?:",
+    "opciones": {
+        "a": "Los que se separen del dictamen de órganos consultivos.",
+        "b": "Los acuerdos de suspensión de actos, cualquiera que sea el motivo de la suspensión",
+        "c": "Los actos que rechacen pruebas propuestas por los interesados.",
+        "d": "Las propuestas de resolución en los procedimientos de responsabilidad patrimonial"
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 37,
+    "enunciado": "Según el artículo 43 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando la notificación por medios electrónicos sea de carácter obligatorio, se entenderá rechazada cuando el interesado no acceda a su contenido, desde la puesta a disposición de la notificación, en el plazo de:",
+    "opciones": {
+        "a": "Diez días.",
+        "b": "Diez días naturales.",
+        "c": "Quince días",
+        "d": "Quince días naturales"
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 38,
+    "enunciado": "¿Cómo deben motivarse los actos que pongan fin a un procedimiento selectivo, de acuerdo con el artículo 35 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas?:",
+    "opciones": {
+        "a": "Siempre por escrito, por medios digitales.",
+        "b": "De manera individualizada.",
+        "c": "En la forma que establezcan las normas que regulen su convocatoria.",
+        "d": "Siempre por escrito, en el tablón de anuncios del órgano convocante."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 39,
+    "enunciado": "Según el artículo 45 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la publicación de los actos administrativos se requiere en todo caso cuando:",
+    "opciones": {
+        "a": "Se separan del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos.",
+        "b": "Se limitan derechos subjetivos o intereses legítimos",
+        "c": "El acto tenga por destinatario una pluralidad indeterminada de personas.",
+        "d": "Todas las respuestas anteriores son correctas"
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 40,
+    "enunciado": "A tenor de lo dispuesto en el artículo 47 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿Qué actos de los siguientes son nulos de pleno derecho?:",
+    "opciones": {
+        "a": "Actos que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.",
+        "b": "Actos que dan lugar a la indefensión de los interesados.",
+        "c": "Los dictados por órgano manifiestamente incompetente por razón de la materia.",
+        "d": "Todos los actos descritos en las respuestas a, b y c son actos nulos de pleno derecho."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 41,
+    "enunciado": "Según el artículo 52 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿Cuándo podrá la Administración Pública convalidar un acto administrativo?",
+    "opciones": {
+        "a": "Cuando el vicio consiste en incompetencia jerárquica, que podrá ser convalidado por el órgano superior jerárquico del que dictó el acto viciado.",
+        "b": "Cuando existe incompetencia manifiesta por razón de la materia, que podrá convalidarlo el órgano que tiene atribuida la competencia",
+        "c": "Cuando existe incompetencia manifiesta por razón del territorio, que podrá convalidarlo el órgano que tiene atribuida la competencia en el territorio correspondiente.",
+        "d": "En todos los casos anteriores la Administración puede convalidar los actos."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 42,
+    "enunciado": "Según el artículo 67 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas el derecho a reclamar la indemnización por los daños ocasionados por la Administración prescribe:",
+    "opciones": {
+        "a": "A los tres meses de haberse notificado la resolución administrativa o la sentencia definitiva.",
+        "b": "A los seis meses desde que se produce la resolución administrativa o sentencia definitiva.",
+        "c": "Al año de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo.",
+        "d": "No caduca"
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 43,
+    "enunciado": "Según el artículo 121 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el órgano encargado de resolver el recurso de alzada es:",
+    "opciones": {
+        "a": "El órgano judicial correspondiente.",
+        "b": "El órgano superior jerárquico del que dictó el acto recurrido",
+        "c": "Indistintamente, el órgano que dictó el acto o el superior jerárquico si lo hubiere.",
+        "d": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 44,
+    "enunciado": "Según el artículo 124 de la Ley 39/2105 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas establece que, contra la resolución del recurso de reposición:",
+    "opciones": {
+        "a": "No podrá interponerse de nuevo dicho recurso",
+        "b": "No podrá ya interponerse recurso contencioso-administrativo.",
+        "c": "No cabrá recurso alguno.",
+        "d": "Puede interponerse nuevamente dicho recurso en los supuestos previstos por la Ley."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 45,
+    "enunciado": "¿Cuál de las siguientes formas NO es un modo de terminación del procedimiento administrativo, según el artículo 84 la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas?:",
+    "opciones": {
+        "a": "Declaración de caducidad.",
+        "b": "Allanamiento.",
+        "c": "Renuncia al derecho en que se funde la solicitud",
+        "d": "Resolución."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 46,
+    "enunciado": "La presentación de una denuncia, conforme dispone el artículo 62 de la Ley 39/2015 de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas:",
+    "opciones": {
+        "a": "Confiere la condición de interesado en el procedimiento cuando aporte elementos de prueba que permitan iniciarlo.",
+        "b": "Confiere, por sí sola, la condición de interesado en el procedimiento.",
+        "c": "No confiere, por sí sola, la condición de interesado en el procedimiento",
+        "d": "Confiere la condición de interesado en el procedimiento salvo cuando se limiten derechos subjetivos del denunciante."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 47,
+    "enunciado": "Conforme dispone el artículo 100 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas, NO es un medio de ejecución forzosa:",
+    "opciones": {
+        "a": "Multa coercitiva.",
+        "b": "Apremio sobre el patrimonio.",
+        "c": "Ejecución solidaria.",
+        "d": "Compulsión sobre las personas."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 48,
+    "enunciado": "De acuerdo con lo dispuesto en el artículo 16 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, NO es contrato de suministro:",
+    "opciones": {
+        "a": "La cesión de derecho de uso de programas informáticos",
+        "b": "Adquisición de programas de ordenador desarrollados a medida.",
+        "c": "El arrendamiento de equipos.",
+        "d": "Los que tengan por objeto la adquisición de energía primaria o energía transformada."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 49,
+    "enunciado": "Según el artículo 13 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos que tienen por objeto la ejecución de una obra conjuntamente con la redacción del proyecto, se consideran:",
+    "opciones": {
+        "a": "Contrato de obras.",
+        "b": "Contrato de servicios",
+        "c": "Contrato mixto, al contener prestaciones correspondientes a un contrato de obras y un contrato de servicios.",
+        "d": "La redacción del proyecto es un contrato de servicios que debe figurar como un contrato separado del contrato de la obra."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 50,
+    "enunciado": "Según el artículo 245 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, es causa de resolución del contrato de obras:",
+    "opciones": {
+        "a": "La suspensión de la iniciación de las obras por plazo superior a cuatro meses.",
+        "b": "La suspensión de las obras por plazo superior a ocho meses por parte de la Administración",
+        "c": "El desistimiento",
+        "d": "Las tres respuestas anteriores, reflejan causas de resolución del contrato de obras."
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 51,
+    "enunciado": "Señale qué principios y reglas de gestión presupuestaria establece el artículo 27 de la Ley de Cantabria 14/2006 de 24 de octubre de Finanzas de Cantabria:",
+    "opciones": {
+        "a": "Estabilidad presupuestaria y sostenibilidad financiera.",
+        "b": "Unidad, universalidad y anualidad.",
+        "c": "Responsabilidad, transparencia y lealtad institucional.",
+        "d": "Eficiencia en la asignación y utilización de los recursos públicos"
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 52,
+    "enunciado": "Los Presupuestos Generales de la Comunidad Autónoma de Cantabria, estarán integrados, según el artículo 32 de la Ley 14/2006, de 24 de octubre, de Finanzas de Cantabria, por:",
+    "opciones": {
+        "a": "Los presupuestos de los órganos con dotación diferenciada y de las entidades que integran el sector público administrativo, sin que formen parte de ellos los presupuestos de explotación y capital de las Sociedades Mercantiles.",
+        "b": "Los presupuestos de los órganos con dotación diferenciada y de las entidades que integran el sector público administrativo y por los presupuestos de explotación y capital de las Fundaciones Públicas excluyendo los de las Sociedades Mercantiles.",
+        "c": "Los presupuestos de los órganos con dotación diferenciada y de las entidades que integran el sector público administrativo y por los presupuestos de explotación y capital de las Sociedades Mercantiles excluyendo los de las Fundaciones Públicas",
+        "d": "Los presupuestos de los órganos con dotación diferenciada y de las entidades que integran el sector público administrativo y por los presupuestos de explotación y capital de las Fundaciones Públicas y de las Sociedades Mercantiles, así como los presupuestos de los fondos sin personalidad jurídica."
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 53,
+    "enunciado": "Conforme el artículo 34 de la Ley 14/2006, de 24 de octubre, de Finanzas de Cantabria, la vinculación de los créditos presupuestarios que figuran en los presupuestos, vendrá determinado de acuerdo con la agrupación:",
+    "opciones": {
+        "a": "Económica.",
+        "b": "Por programas",
+        "c": "Por programas y económica",
+        "d": "Orgánica, por programas y económica."
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 54,
+    "enunciado": "De acuerdo con lo dispuesto en el artículo 40 de la Ley 14/2006, de 24 de octubre, de Finanzas de Cantabria. ¿Qué clasificación de la estructura de los estados de gastos de los Presupuestos Generales de la Comunidad Autónoma permite a los centros gestores establecer los objetivos a conseguir como resultado de su gestión presupuestaria?",
+    "opciones": {
+        "a": "Clasificación orgánica.",
+        "b": "Clasificación por programas.",
+        "c": "Clasificación económica",
+        "d": "Clasificación de operaciones corrientes y de capital."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 55,
+    "enunciado": "Según el artículo 41 de la Ley 14/2006, de 24 de octubre, de Finanzas de Cantabria, la clasificación económica de los estados de ingresos de los Presupuestos Generales de la Comunidad Autónoma, agrupa los ingresos distinguiendo:",
+    "opciones": {
+        "a": "Los corrientes, los de capital y los de operaciones financieras.",
+        "b": "Las secciones y los servicios de los derechos asignados a los distintos centros gestores con dotación diferenciada en los Presupuestos.",
+        "c": "Los Corrientes y Fondo de Contingencia de ejecución Presupuestaria.",
+        "d": "Los de Capital y Fondo de Contingencia de ejecución Presupuestaria."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 56,
+    "enunciado": "Según el artículo 40 de la Ley 14/2006, de 24 de octubre, de Finanzas de Cantabria, dentro de la clasificación económica de los estados de gastos de los Presupuestos Generales de la Comunidad Autónoma, en los créditos para operaciones de capital, se incluirá:",
+    "opciones": {
+        "a": "Los gastos de personal.",
+        "b": "Los gastos financieros",
+        "c": "Inversiones reales",
+        "d": "Activos y pasivos financieros"
+    },
+    "respuesta_correcta": "c"
+}
 ]
