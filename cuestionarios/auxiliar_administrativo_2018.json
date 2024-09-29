@@ -614,5 +614,1149 @@
         "d": "Activos y pasivos financieros"
     },
     "respuesta_correcta": "c"
+},
+{
+    "numero": 57,
+    "enunciado": "A tenor de los dispuesto en el artículo 67 de la Ley 14/2006, de 24 de octubre, de Finanzas de Cantabria, ¿Cuál de los siguientes, son principios de funcionamiento de la gestión económica-financiera?",
+    "opciones": {
+        "a": "Estabilidad presupuestaria y sostenibilidad financiera.",
+        "b": "Unidad y universalidad.",
+        "c": "Responsabilidad, transparencia y lealtad institucional.",
+        "d": "Eficacia en la consecución de los objetivos fijados y eficiencia en la asignación y utilización de los recursos públicos"
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 58,
+    "enunciado": "De acuerdo con lo dispuesto en el artículo 72 de la Ley de Cantabria 14/2006, de 24 de octubre, de Finanzas de Cantabria, reconocer la obligación derivada de los Convenios que se suscriban con otras Administraciones Públicas en las que se ostenten competencias compartidas de ejecución corresponderá a:",
+    "opciones": {
+        "a": "El Consejo de Gobierno",
+        "b": "Los consejeros",
+        "c": "El titular de la Consejería competente en materia de Hacienda.",
+        "d": "Los Directores Generales de los Organismos Autónomos de la Consejería que suscribe el Convenio."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 59,
+    "enunciado": "Señale la respuesta correcta de acuerdo al artículo 3 de la Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "opciones": {
+        "a": "La política de la salud estará orientada a el mantenimiento de los desequilibrios territoriales.",
+        "b": "El sistema sanitario estará orientado al aumento del gasto sanitario.",
+        "c": "La política de salud estará orienta a la superación de los desequilibrios territoriales y sociales.",
+        "d": "Se tendrá en cuenta y se integrarán en sus objetivos el principio de desigualdad entre hombre y mujeres."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 60,
+    "enunciado": "Ley 14/1986, de 25 de abril, General de Sanidad en su articulo 4 establece que Las Comunicades Autónomas crearán sus Servicios de Salud",
+    "opciones": {
+        "a": "Dentro de sus respectivos estatutos de autonomía exclusivamente.",
+        "b": "Unicamente dentro del marco de la Ley 14/1986.",
+        "c": "Siguiendo la normativa de sus Servicios de Salud.",
+        "d": "Dentro del marco de esta Ley y de sus respectivos estatutos de autonomía."
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 61,
+    "enunciado": "Las Comunidades Autónomas según el artículo 41 de la Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "opciones": {
+        "a": "Ejercerán las competencias según la jurisprudencia recogida a tal efecto.",
+        "b": "Ejercerán las competencias que figuren en sus leyes sanitarias aun habiendose reservado expresamente al Estado.",
+        "c": "Ejercerán las competencias asumidas en sus Estatutos y las que el Estado les transfiera, o en su caso, les delegue.",
+        "d": "Ejercerán las competencias asumidas en sus Estatutos con independencia de las delegaciones del Estado."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 62,
+    "enunciado": "En el artículo 57 de la Ley 14/1986, de 25 de abril, General de Sanidad, las Áreas de Salud contarán, como mínimo, con los siguientes órganos:",
+    "opciones": {
+        "a": "De participación, de dirección y de gestión.",
+        "b": "De dirección, de gestión y de consulta.",
+        "c": "De participación, de información y de gestión.",
+        "d": "La b y c son correctas."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 63,
+    "enunciado": "Según el artículo 51 de la Ley 14/1986 de 25 de abril, General de Sanidad. Las Administraciones territoriales intracomunitarias ¿podrán crear o establecer nuevos centros o servicios sanitarios?",
+    "opciones": {
+        "a": "No, en ningún caso.",
+        "b": "Si, Dependiendo de los acuerdos políticos",
+        "c": "Si, de acuerdo con los planes de salud de cada Comunidad Autónoma y sin autorización previa.",
+        "d": "Si, de acuerdo con los planes de salud de cada Comunidad Autónoma y previa autorización de la misma."
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 64,
+    "enunciado": "Según el artículo 7 de la Ley 14/1986 de 25 de abril, General de Sanidad. Los servicios sanitarios, así como los administrativos, económicos y cualesquiera otros que sean precisos para el funcionamiento del Sistema de Salud, adecuarán sus organización y funcionamiento a los principios de:",
+    "opciones": {
+        "a": "Eficacia, celeridad, economía y flexibilidad.",
+        "b": "Eficacia, aptitud y actitud.",
+        "c": "Eficacía, excelencia, economía y flexibilidad.",
+        "d": "Eficacia, celeridad, economía y burocracia"
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 65,
+    "enunciado": "Según el artículo 9 de la Ley 14/1986, de 25 de abril, General de Sanidad, los poderes públicos deberán:",
+    "opciones": {
+        "a": "Informa a los usuarios únicamente de todos sus deberes.",
+        "b": "No están obligados a informar a sus usuarios de sus derechos.",
+        "c": "Informar a los usuarios de los servicios del sistema sanitario público, o vinculados a él, de sus derechos y deberes.",
+        "d": "Informar a los usuarios de los servicicios del sistema sanitario público, no así de los vinculados a éste."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 66,
+    "enunciado": "Según el artículo 38 de la Ley 14/1986, de 25 de abril, General de Sanidad, son competencia exclusiva del Estado:",
+    "opciones": {
+        "a": "La sanidad exterior y las relaciones y acuerdos sanitarios internacionales.",
+        "b": "Solamente los acuerdos sanitarios internacionales.",
+        "c": "Solamente la sanidad exterior.",
+        "d": "No se establecen competencias en exclusiva."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 67,
+    "enunciado": "Según el artículo 3 de la Ley 7/2002, de 10 de diciembre, de Ordenación Sanitaria de Cantabria ....",
+    "opciones": {
+        "a": "Se garantiza la asistencia solo a los residentes de la Comunidad Autónoma.",
+        "b": "Las personas no residentes en la Comunidad Autónoma de Cantabria, en ningún caso, podrán ser titulares de los mismos derechos y deberes que los residentes.",
+        "c": "Se garantiza a todas las personas la atención en situación de urgencia o emergencia.",
+        "d": "Se garantiza la atención en situación de urgencia o emergencia a los titulares y a los previstos en algún convenio internacional."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 68,
+    "enunciado": "La Ley 7/2002, de 10 de diciembre, de Ordenación Sanitaria de Cantabria, en su artículo 18 establece:",
+    "opciones": {
+        "a": "Se entiende por personal del Sistema Sanitario Público de Cantabria al personal sanitario de los centros e instituciones sanitarias.",
+        "b": "Se entiende por personal del Sistema Sanitario Público de Cantabria el personal de los centros e instituciones sanitarias integrados en la Administracion de la Comunidad Autónoma de Cantabria o en sus organismos públicos o entidades , de naturaleza o titularidad pública, vinculadas o dependientes de la misma.",
+        "c": "No se entiende por personal del Sistema Sanitario de Cantabría el personal que desempeña funciones puramente administrativas.",
+        "d": "Se entiende por personal del Sistema Sanitario Público, de forma exclusiva, al personal de los Centros de Atención primaria y Atención especializada."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 69,
+    "enunciado": "El artículo 13 de la Ley 7/2002, de 10 de diciembre, de Ordenación Sanitarias de Cantabria que la estructura sanitaria responsable de la atención especializada esta constituida por:",
+    "opciones": {
+        "a": "El hospital, junto a sus correspondientes centros de especialidades.",
+        "b": "El hospital en exclusiva.",
+        "c": "Las consultas de especialidades y los servicios de urgencias.",
+        "d": "Los servicios de urgencias y los centro de especialidades."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 70,
+    "enunciado": "Según el artículo 27 de la Ley 7/2002, de 10 de diciembre, de Ordenación Sanitaria de Cantabria, para la difusión de sus campañas institucionales sobre educación para la salud, dispondrá de:",
+    "opciones": {
+        "a": "Espacios gratuitos de publicidad en los medios de comunicación de titularidad pública del ámbito territorial de la Comunidad Autónoma de Cantabria.",
+        "b": "Espacios gratuitos de publicidad en los medios de comunicación de titularidad pública y privada del ámbito territorial de la Comunidad Autónoma de Cantabria.",
+        "c": "Espacios gratuitos de publicidad en los medios de comunicación de titularidad pública del ámbito territorial del Estado español.",
+        "d": "La B y C son correctas."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 71,
+    "enunciado": "La Ley 7/2002, de 10 de diciembre, de Ordenación Sanitaria de Cantabriar en su artículo 63 dice que el Plan de Salud de Cantabria será aprobado por el Gobierno de Cantabria, a propuesta de:",
+    "opciones": {
+        "a": "Consejería competente en materia de sanidad.",
+        "b": "Consejería de la Presidencia.",
+        "c": "Consejo Económico y Social.",
+        "d": "Gobierno de Cantabria."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 72,
+    "enunciado": "Según el artículo 64 de la Ley 7/2002, de 10 de diciembre, de Ordenación Sanitaria de Cantabria, la Administración sanitaria de la Comunidad Autónoma de Cantabria promoverá el desarrollo, entre otras actuaciones relacionadas con la salud pública, del control de la publicidad sanitaria.",
+    "opciones": {
+        "a": "Verdadero.",
+        "b": "Falso.",
+        "c": "Solo en el caso de asuntos relacionados con la infancia",
+        "d": "Solo en el caso de asuntos relacionados con la obesidad"
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 73,
+    "enunciado": "Según el artículo 66 de la Ley 7/2002, de 10 de diciembre, de Ordenación Sanitaria de Cantabria se establece por Decreto del Gobierno de Cantabria, la creación de un Consejo de Salud Laboral, a propuesta conjunta de:",
+    "opciones": {
+        "a": "Las organizaciones sindicales y empresariales más representativas.",
+        "b": "Las Consejerías competentes en materia de sanidad y de trabajo.",
+        "c": "Las Consejerías de Presidencia, Hacienda y Sanidad.",
+        "d": "La Consejería de Sanidad y los servicios de prevención de riesgos autorizados."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 74,
+    "enunciado": "Según el artículo 70 de la Ley 7/2002, de 10 de diciembre, de Ordenación Sanitaria de Cantabria la historia clínica debe tener un número de identificación y ha de incluir unos datos. ¿Cuál de los que figuran a continucación NO está incluido de forma expresa en este artículo?",
+    "opciones": {
+        "a": "Datos clínicos de sus descendientes.",
+        "b": "Datos clínico-asistenciales.",
+        "c": "Datos de identificación del enfermo y de la asistencia.",
+        "d": "Hoja de consentimiento informado si procede."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 75,
+    "enunciado": "Conforme a lo establecido en el artículo 72 de la Ley 7/2002, de 10 de diciembre, de Ordenación Sanitaria de Cantabria ¿Cuántos años debe conservarse la historia clínica como mínimo desde la muerte del paciente?",
+    "opciones": {
+        "a": "5",
+        "b": "15",
+        "c": "20",
+        "d": "No se establece."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 76,
+    "enunciado": "Según el artículo 79 de la Ley 7/2002, de 10 de diciembre, de Ordenación Sanitaria de Cantabria, NO se considerará infracción sanitaria leve:",
+    "opciones": {
+        "a": "El incumplimiento de los requisitos, obligaciones o prohibiciones, establecidos en la normativa sanitaria vigente, siempre que se produzca alteración o riesgo sanitario y éste sea de escasa importancia.",
+        "b": "Las simples irregularidades en el cumplimiento de la normativa sanitaria vigente, sin trascendencia directa para la salud pública.",
+        "c": "La identificación falsa o contraria al principio de veracidad, en cuanto a los méritos, experiencia o capacidad técnica, del personal sanitario en su actividad profesional y en sus relaciones asistenciales con la población, salvo cuando merezca ser calificada como grave o muy grave.",
+        "d": "La grave desconsideración de los usuarios hacia el personal del Sistema Sanitario Público de Cantabria."
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 77,
+    "enunciado": "En el artículo 81 de la Ley 7/2002, de 10 de diciembre, de Ordenación Sanitaria de Cantabria, es establece que son órganos competentes en el ámbito de sus respectivas competencias, para la imposición de multas:",
+    "opciones": {
+        "a": "Los Alcaldes, hasta 3.000 euros.",
+        "b": "El Consejero competente en materia de sanidad, desde 15.000,01 euros hasta 360.000 euros.",
+        "c": "El Gobierno de Cantabria, a partir de 360.000,01 euros.",
+        "d": "Todas las anteriores son correctas"
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 78,
+    "enunciado": "Según el Decreto 27/2011, de 31 de marzo, por el que se establece el mapa sanitario autonómico de Cantabria, ¿Cuál del estos centros de salud se encuentra en la Zona de Salud de Bajo Pas?",
+    "opciones": {
+        "a": "Cudeyo.",
+        "b": "José Barros.",
+        "c": "Renedo de Piélagos.",
+        "d": "Liérganes."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 79,
+    "enunciado": "Según el artículo 2 del ANEXO Estatuto del Servicio Cántabro de Salud, Ley 10/2001, de 28 de diciembre, de Creación del Servicio Cántabro de Salud, el Servicio Cántabro de Salud, en su funcionamiento así como en el ejercicio de sus competencias, se acomodará a los siguientes principios:",
+    "opciones": {
+        "a": "Autonomía, centralización, burocracia, eficacia y eficiencia, racionalización y coordinación con el conjunto del Sistema Sanitario Público de Cantabria.",
+        "b": "Evaluación continuada de la calidad asistencial de los servicios y prestaciones sanitarias.",
+        "c": "La no participación de los ciudadanos en la orientación, evaluación y control del Servicio Cántabro de Salud.",
+        "d": "Garantía de acceso a los servicios sanitarios en los centros urbanos más importantes de la Comunidad."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 80,
+    "enunciado": "Según el artículo 4 del Estatuto del Servicio Cántabro de Salud, Ley 10/2001, de 28 de diciembre, de Creación del Servicio Cántabro de Salud ¿Cuál de las siguientes potestades administrativas, en el ejercicio de sus funciones, corresponde al Servicio Cántabro de Salud?",
+    "opciones": {
+        "a": "La potestad organizatoria.",
+        "b": "La potestad de planificación.",
+        "c": "La potestad de ejecución forzosa de sus actos.",
+        "d": "Todas las respuestas anteriores son correctas."
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 81,
+    "enunciado": "Según el Decreto 27/2011, de 31 de marzo, por el que se establece el mapa sanitario autonómico de Cantabria ¿Cuál es el nombre del centro de salud que corresponde a la Zona de Salud Camargo Interior?",
+    "opciones": {
+        "a": "José Barros.",
+        "b": "Luis Lodo.",
+        "c": "Camargo Interior.",
+        "d": "Camargo."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 82,
+    "enunciado": "Según el artículo 23 de la Ley 10/2001, de 28 de diciembre, de Creación del Servicio Cántabro de Salud, el Servicio Cántabro de salud elaborará anualmente un anteproyecto de presupuestos ¿antes de qué fecha?",
+    "opciones": {
+        "a": "31 de diciembre de cada ejercicio.",
+        "b": "1 de enero de cada ejercicio.",
+        "c": "30 de mayo de cada ejercicio.",
+        "d": "30 de junio de cada ejercicio."
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 83,
+    "enunciado": "Según el Decreto 27/2011, de 31 de marzo, por el que se establece el mapa sanitario autonómico de Cantabria, ¿Cuál de las siguientes Áreas de Salud se delimita como especial?",
+    "opciones": {
+        "a": "Área I Santander.",
+        "b": "Área II Laredo.",
+        "c": "Área III Reinosa.",
+        "d": "Área IV Torrelavega."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 84,
+    "enunciado": "Según el artículo 28 de la Ley 10/2001, de 28 de diciembre, de Creación del Servicio Cántabro de Salud, contra los actos administrativos dictados por el Consejo de Dirección y el Director Gerente del Servicio Cántabro de Salud en el ejercicio de sus potestades administrativas podrá interponerse recurso de:",
+    "opciones": {
+        "a": "Alzada.",
+        "b": "Reposición.",
+        "c": "Directamente recurso Contencioso-Administrativo.",
+        "d": "No cabe recurso alguno."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 85,
+    "enunciado": "Según el artículo 63 de la Ley 14/1986, de 25 de abril, General de Sanidad: Los Centros de Salud desarrollarán su actividad de forma integrada y mediante el trabajo....",
+    "opciones": {
+        "a": "En Consejo de Salud.",
+        "b": "En equipo.",
+        "c": "En Consejo de Dirección de Área.",
+        "d": "En Consejo de Dirección de Zona."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 86,
+    "enunciado": "Ley 7/2002, de 10 de diciembre, de Ordenación Sanitaria de Cantabria, en su artículo 9 establece que el Sistema Sanitario Público de Cantabria se organiza en demarcaciones territoriales denominadas:",
+    "opciones": {
+        "a": "Zonas básicas de Salud.",
+        "b": "Áreas de Salud.",
+        "c": "Centros de Salud.",
+        "d": "Equipos de Atención Primaria."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 87,
+    "enunciado": "Como se recoge en el artículo 11 de la Ley 7/2002, de 10 de diciembre, de Ordenación Sanitaria de Cantabria, La asistencia sanitaria del Sistema Sanitario Público de Cantabria, con carácter general, se organiza en los siguientes niveles de atención:",
+    "opciones": {
+        "a": "Atención primaria y atención hospitalaria.",
+        "b": "Atención hospitalaria y atención secundaria.",
+        "c": "Atención primaria y atención especializada.",
+        "d": "Atención enfermedades baja prevalencia y atención a las urgencias y emergencias sanitarias."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 88,
+    "enunciado": "Según el artículo 12 de la Ley 7/2002, de 10 de diciembre, de Ordenación Sanitaria de Cantabria, los equipos de atención primaria desarrollan su actividad en:",
+    "opciones": {
+        "a": "El hospital de referencia.",
+        "b": "El área de salud.",
+        "c": "Exclusivamente en el centro de salud.",
+        "d": "La zona básica de salud correspondiente."
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 89,
+    "enunciado": "El artículo 14 de la Ley 7/2002, de 10 de diciembre, de Ordenación Sanitaria de Cantabria establece que la atención a las urgencias sanitarias recaerá sobre:",
+    "opciones": {
+        "a": "Los hospitales de referencia y los servicios de urgencias y emergencias.",
+        "b": "Los consultorios y los servicios de urgencias y emergencias.",
+        "c": "Los servicios de urgencia de atención primaria, en coordinación con los centros hospitalarios y los servicios de urgencias y emergencias, en su caso.",
+        "d": "Los despachos de farmacia establecidos a tal efecto."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 90,
+    "enunciado": "Dentro de la cartera de servicios de Atención Primaria se dispone de unidades de apoyo, entre las que se encuentra:",
+    "opciones": {
+        "a": "Centro de Salud sexual y reproductiva 'La Cagiga'.",
+        "b": "Servicio de Atención temprana.",
+        "c": "Unidad deshabituación tabáquica (UDESTA).",
+        "d": "Todas las respuestas anteriores son correctas."
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 91,
+    "enunciado": "¿Cuántas Gerencias de Atención Primaria hay actualmente en Cantabria?",
+    "opciones": {
+        "a": "2",
+        "b": "3",
+        "c": "1",
+        "d": "No hay ninguna."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 92,
+    "enunciado": "¿Cómo se constituye la estructura sanitaria correspondiente a la atención especializada?",
+    "opciones": {
+        "a": "El hospital, junto a sus correspondientes centros de especialidades.",
+        "b": "El hospital únicamente.",
+        "c": "El hospital y sus servicios de urgencias.",
+        "d": "La B y la C son correctas."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 93,
+    "enunciado": "Según el artículo 9 de la Ley 16/2003 de 28 de mayo de cohesión y calidad del Sistema Nacional de Salud, las prestaciones sanitarias del Sistema Nacional de Salud únicamente se facilitarán por el personal legalmente habilitado, en centros y servicios propios o concertados, salvo:",
+    "opciones": {
+        "a": "En situación de riesgo vital, cuando se justifique que no pudieron ser utilizados los medios de aquél.",
+        "b": "En situación de riesgo vital, sin necesidad de justificación.",
+        "c": "En cualquier situación considerada así por el facultativo que preste la asistencia.",
+        "d": "En cualquier situación así considerada por el Equipo de Atención Primaria."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 94,
+    "enunciado": "La atención primaria, según el artículo 12 de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, comprenderá:",
+    "opciones": {
+        "a": "La rehabilitación en pacientes con déficit funcional recuperable.",
+        "b": "La hospitalización en régimen de internamiento.",
+        "c": "El nivel básico e inicial de atención.",
+        "d": "La atención a la salud mental en exclusiva."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 95,
+    "enunciado": "¿Dónde se dispensará la prestación de atención de urgencia, según el artículo 15 de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud?",
+    "opciones": {
+        "a": "Solo en centros sanitarios.",
+        "b": "Solo en su domicilio.",
+        "c": "Tanto en centros sanitarios como fuera de ellos, excluyendo el domicilio del paciente.",
+        "d": "Tanto en centros sanitarios como fuera de ellos, incluyendo el domicilio del paciente."
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 96,
+    "enunciado": "Según el artículo 25 de la Ley 16/2003 de 28 de mayo de cohesión y calidad del Sistema Nacional de Salud; ¿En qué órgano se acordarán los criterios marco para garantizar el tiempo máximo de acceso a las prestaciones del Sistema Nacional de Salud?",
+    "opciones": {
+        "a": "En el Consejo de Salud.",
+        "b": "En el Consejo de Gobierno.",
+        "c": "En el Consejo Interterritorial.",
+        "d": "En el Consejo de la Función Pública."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 97,
+    "enunciado": "Según el artículo 28 de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, señala la respuesta INCORRECTA.",
+    "opciones": {
+        "a": "Los centros sanitarios de nueva creación deberán cumplir las normas vigentes en materia de promoción de la accesibilidad y de eliminación de barreras de todo tipo que les sean de aplicación.",
+        "b": "El Ministerio de Sanidad y Consumo acreditará aquellos servicios de referencia, que quedan establecidos como tales.",
+        "c": "Las Administraciones públicas sanitarias no promoverán programas para la eliminación de barreras en los centros y servicios sanitarios que, por razón de su antigüedad u otros, presenten obstáculos para los usuarios con problemas de movilidad o comunicación.",
+        "d": "Las instituciones asistenciales velarán por la adecuación de su organización para facilitar la libre elección de facultativo y una segunda opinión en los términos que reglamentariamente se establezcan."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 98,
+    "enunciado": "Según el artículo 29 de la Ley 16/2003 de 28 de mayo de cohesión y calidad del Sistema Nacional de Salud. Las garantías de seguridad y calidad de las prestaciones del Sistema Nacional de Salud son aplicables a:",
+    "opciones": {
+        "a": "Todos los centros, públicos y privados independientemente de la financiación de las prestaciones que estén ofreciendo.",
+        "b": "Los centros públicos en exclusiva.",
+        "c": "Los centros privados dependiendo de la financiación.",
+        "d": "Todos los centros públicos y los privados dependiendo de la financiación de las prestaciones que estén ofreciendo."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 99,
+    "enunciado": "Según el artículo 4 de la Ley 16/2003 de 28 de mayo de cohesión y calidad del Sistema Nacional de Salud. Los ciudadanos en el conjunto del Sistema Nacional de Salud tendrá alguno de los siguientes derechos:",
+    "opciones": {
+        "a": "A disponer de tantas opiniones facultativas sobre su proceso como consideren oportunas.",
+        "b": "A disponer de una segunda opinión facultativa sobre su proceso.",
+        "c": "No tiene derecho a una segunda opinión sobre su proceso.",
+        "d": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 100,
+    "enunciado": "De conformidad con el artículo 9 de la Ley 41/2002 de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información clínica, relativo a los límites del consentimiento informado y consentimiento por representación, los facultativos podrán llevar a cabo las intervenciones clínicas indispensables en favor de la salud del paciente, sin necesidad de contar con su consentimiento:",
+    "opciones": {
+        "a": "Cuando existe riesgo para la salud pública a causa de razones sanitarias establecidas por la Ley. En todo caso, una vez adoptadas las medidas pertinentes, de conformidad con lo establecido en la ley Orgánica 3/1986, se comunicarán a la autoridad judicial en el plazo máximo de 12 horas siempre que dispongan el internamiento obligatorio de personas.",
+        "b": "Cuando exista riesgo inmediato grave para la integridad física o psíquica del enfermo, y no es posible conseguir su autorización y consultando necesariamente a sus familiares o a las personas vinculadas de hecho a él.",
+        "c": "Cuando existe riesgo para la salud pública a causa de razones sanitarias establecidas por la Ley. En todo caso, una vez adoptadas las medidas pertinentes, de conformidad con lo establecido en la ley Orgánica 3/1986, se comunicarán a la autoridad judicial en el plazo máximo de 24 horas siempre que dispongan el internamiento obligatorio de personas.",
+        "d": "Cuando existe riesgo para la salud pública a causa de razones sanitarias establecidas por la Ley. En todo caso, una vez adoptadas las medidas pertinentes, de conformidad con lo establecido en la ley Orgánica 3/1986, se comunicarán a la autoridad judicial en el plazo máximo de 48 horas siempre que dispongan el internamiento obligatorio de personas."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 101,
+    "enunciado": "Según la ley 41/2002 de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información clínica, en su artículo 10 respecto a las condiciones de la información y consentimiento por escrito, como información básica que el facultativo proporcionará al paciente, antes de recabar su consentimiento escrito incluirá:",
+    "opciones": {
+        "a": "Cualquier consecuencia que la intervención origina con seguridad.",
+        "b": "Los riesgos relacionados con las circunstancias personales pero no profesionales del paciente.",
+        "c": "Los riesgos probables en condiciones normales conforme a la experiencia y al estado de la ciencia o directa e indirectamente relacionados con el tipo de intervención.",
+        "d": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 102,
+    "enunciado": "En relación al artículo 21, de la ley 41/2002 de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información clínica, relativo al alta del paciente, es CORRECTO que:",
+    "opciones": {
+        "a": "En caso de no aceptar el tratamiento prescrito se propondrá al paciente o usuario la firma del alta voluntaria. Si no la firmara, el facultativo responsable podrá disponer el alta forzosa en las condiciones reguladas por la Ley.",
+        "b": "El hecho de no aceptar el tratamiento prescrito no dará lugar a alta forzosa cuando existan tratamientos alternativos, aunque tengan carácter paliativo, siempre que los preste el centro sanitario y el paciente acepte recibirlos. Estas circunstancias quedarán debidamente documentadas.",
+        "c": "En el caso de que el paciente no acepte el alta, la dirección del centro, previa comprobación del informe clínico correspondiente, oirá al paciente y, si persiste en su negativa lo pondrá en conocimiento del Ministerio Fiscal para que confirme o revoque la decisión.",
+        "d": "El alta del paciente no está regulado en el artículo 21."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 103,
+    "enunciado": "Según el artículo 18 de la ley 41/2002 de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información clínica señale cuál es la afirmación INCORRECTA:",
+    "opciones": {
+        "a": "El derecho de acceso al paciente a la historia clínica puede ejercerse también por representación debidamente acreditada.",
+        "b": "Los centros sanitarios y los facultativos de ejercicio individual siempre facilitarán el acceso a la historia clínica de los pacientes fallecidos a las personas vinculadas a él, por razones familiares o de hecho.",
+        "c": "En cualquier caso el acceso de un tercero a la historia clínica motivado por un riesgo para su salud se limitará a los datos pertinentes.",
+        "d": "El derecho al acceso del paciente a la documentación de la historia clínica no puede ejercitarse en perjuicio de derecho de terceras personas a la confidencialidad de los datos que constan en ella recogidos en interés terapéutico del paciente, ni en perjuicio del derecho de los profesionales participantes en su elaboración, los cuales pueden oponer el derecho de acceso la reserva de sus anotaciones subjetivas."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 104,
+    "enunciado": "De acuerdo con el artículo 16, usos de la historia clínica, de la Ley 41/2002 de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica NO es correcto que:",
+    "opciones": {
+        "a": "El personal que accede a los datos de la historia clínica en el ejercicio de sus funciones queda sujeto al deber de secreto.",
+        "b": "El personal de administración y gestión de los centros sanitarios solo puede acceder a los datos de la historia clínica relacionados con sus propias funciones.",
+        "c": "Se establece un protocolo común para todos los centros, conforme a la ley, que determine los métodos que posibiliten en todo momento el acceso a la historia clínica de cada paciente por los profesionales que le atienden.",
+        "d": "Las Comunidades autónomas regularán el procedimiento para que quede constancia del acceso a la historia clínica y de su uso."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 105,
+    "enunciado": "Según el artículo 5 de la ley 41/2002 de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica también serán informadas las personas vinculadas al paciente por razones familiares o de hecho, en la medida en que el paciente lo permita:",
+    "opciones": {
+        "a": "De manera expresa necesariamente.",
+        "b": "En ningún caso puede ser informado otra persona distinta al paciente.",
+        "c": "De manera expresa o tácita.",
+        "d": "Son correctas las respuestas A y C."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 106,
+    "enunciado": "De acuerdo con lo establecido en artículo 15 de la Ley 41/2002 del 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica señale cuál de las siguientes informaciones se considera contenido mínimo de la historia clínica:",
+    "opciones": {
+        "a": "La documentación relativa a la hoja clínicoestadística que solo será exigible en la cumplimentación de la historia cuando se trate de procesos de hospitalización o así se disponga.",
+        "b": "La autorización de ingreso sólo a petición de paciente.",
+        "c": "La aplicación terapéutica de enfermería, los informes de exploraciones complementarias y el gráfico de constantes, este último solo será exigible en la documentación de la historia cuando se trate de procesos de hospitalización o así se disponga.",
+        "d": "Siempre el informe clínico de alta."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 107,
+    "enunciado": "Según la Ley 7/2006, de 15 de junio, de garantías de tiempos máximos de respuesta en atención sanitaria especializada en el sistema sanitario público de Cantabria, y según el artículo 7 de la citada ley es causa de suspensión del tiempo máximo de respuesta en la atención especializada:",
+    "opciones": {
+        "a": "El establecimiento de la contraindicación o no necesidad de la atención sanitaria especializada que motivó su inclusión en el registro, según informe médico, aceptado por el o la paciente.",
+        "b": "No haber sido localizado para recibir la asistencia tras haberlo intentado de modo fehaciente.",
+        "c": "En caso de acontecimientos catastróficos, tales como terremotos, inundaciones, incendios o situaciones similares, guerras o revueltas, así como en caso de epidemias, huelgas y disfunciones muy graves que afecten a uno o más centros o servicios sanitarios.",
+        "d": "Todas las anteriores son correctas."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 108,
+    "enunciado": "De acuerdo con el artículo 5 de la Ley 7/2006, de 15 de junio, de garantías de tiempos máximos de respuesta en atención sanitaria especializada en el sistema sanitario público de Cantabria, los tiempos máximos de respuesta de atención sanitaria especializada, de carácter programado y no urgente serán:",
+    "opciones": {
+        "a": "60 días para la realización de pruebas diagnósticas especializadas.",
+        "b": "180 días naturales, en el caso de procedimientos quirúrgicos desde la fecha de inscripción del paciente o la paciente en el Registro de pacientes en Lista de espera de Cantabria.",
+        "c": "30 días hábiles para la realización de pruebas diagnósticas especializadas.",
+        "d": "Ninguna es correcta."
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 109,
+    "enunciado": "Según la Ley 7/2006, de 15 de junio, de garantías de tiempos máximos de respuesta en atención sanitaria especializada en el sistema sanitario público de Cantabria que regula en su artículo 9 el certificado de garantía:",
+    "opciones": {
+        "a": "Será expedido por el Servicio Cántabro de Salud en el plazo máximo de 10 días desde que la solicitud de la persona interesada tenga entrada en el registro del órgano competente.",
+        "b": "Será expedido por el Servicio Cántabro de Salud en el plazo máximo de 5 días desde que la solicitud de la persona interesada tenga entrada en el registro del órgano competente.",
+        "c": "Tendrá una vigencia de un año, contado desde la fecha de su solicitud. Transcurrido el plazo de un año sin que la persona interesada haya hecho uso de su derecho, el Servicio Cántabro de Salud quedará exonerado del pago de los gastos derivados de la atención sanitaria especializada, en el supuesto de que ésta se llegase a prestar posteriormente por un centro sanitario privado.",
+        "d": "Las respuesta A y C son correctas."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 110,
+    "enunciado": "Según Decreto 2/2015, de 15 de Enero, por el que se regula el ejercicio del derecho a la segunda opinión médica en el ámbito del sistema sanitario público de Cantabria, y conforme se indica en su artículo 7 relativo a la solicitud de segunda opinión médica, ésta se dirigirá:",
+    "opciones": {
+        "a": "Al titular de la Consejería de Sanidad de Cantabria.",
+        "b": "Al titular de la Gerencia de Atención Especializada a la que pertenezca el solicitante.",
+        "c": "Al titular de la Dirección Gerencia del Servicio Cántabro de Salud.",
+        "d": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 111,
+    "enunciado": "Según Decreto 2/2015, de 15 de Enero por el que se regula el ejercicio del derecho a la segunda opinión médica en el ámbito del sistema sanitario público de Cantabria, en su artículo 9 relativo a la resolución de solicitud de segunda opinión médica, ¿En qué plazo el Director Gerente del Servicio Cántabro de Salud deberá dictar resolución y habrá de ser notificada al interesado?",
+    "opciones": {
+        "a": "En el plazo de 1 mes desde que tuvo entrada la solicitud.",
+        "b": "En el plazo de 30 días desde que tuvo entrada la solicitud.",
+        "c": "En el plazo de 15 días desde que tuvo entrada la solicitud.",
+        "d": "En el plazo de 20 días desde que tuvo entrada la solicitud."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 112,
+    "enunciado": "De conformidad con el artículo 21 de la Ley Orgánica 3/2007, de 22 marzo, para la igualdad efectiva de mujeres y hombres, relativo a la colaboración entre las Administraciones públicas, es cierto que:",
+    "opciones": {
+        "a": "La Administración General del Estado y las Administraciones de las Comunidades Autónomas cooperarán para integrar el derecho de igualdad entre mujeres y hombres en el ejercicio de sus respectivas competencias y, en especial, en sus actuaciones de planificación. En el seno de la Conferencia Sectorial de la Mujer podrán adoptarse planes y programas conjuntos de actuación con esta finalidad.",
+        "b": "La Administración General del Estado y las Administraciones de las Comunidades Autónomas cooperarán para integrar el derecho de igualdad entre mujeres y hombres en el ejercicio de sus respectivas competencias y, en especial, en sus actuaciones de integración. En el seno de la Conferencia Sectorial de la Mujer podrán adoptarse planes y programas conjuntos de actuación con esta finalidad.",
+        "c": "La Administración General del Estado y las Administraciones de las Comunidades Autónomas cooperarán para integrar el derecho de igualdad entre mujeres y hombres en el ejercicio de sus respectivas competencias y, en especial, en sus actuaciones de coordinación. En el seno de la Conferencia Sectorial de la Mujer podrán adoptarse planes y programas conjuntos de actuación con esta finalidad.",
+        "d": "La Administración General del Estado y las Administraciones de las Comunidades Autónomas cooperarán para integrar el derecho de igualdad entre mujeres y hombres en el ejercicio de sus respectivas competencias y, en especial, en sus actuaciones de intervención. En el seno de la Conferencia Sectorial de la Mujer podrán adoptarse planes y programas conjuntos de actuación con esta finalidad."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 113,
+    "enunciado": "Según el artículo 25 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de hombres y mujeres, en el ámbito de educación superior, las administraciones públicas en el ejercicio de sus respectivas competencias fomentarán la enseñanza y la investigación sobre el significado y alcance de la igualdad entre mujeres y hombres. En particular, y con tal finalidad, las Administraciones públicas promoverán:",
+    "opciones": {
+        "a": "La creación de postgrados específicos.",
+        "b": "La realización de estudios e investigaciones especializadas en la materia.",
+        "c": "La inclusión, en los planes de estudio en que proceda, de enseñanzas en materia de igualdad entre mujeres y hombres.",
+        "d": "Todas las respuestas anteriores son ciertas."
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 114,
+    "enunciado": "Según el artículo 14 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, señale cuál de los siguientes NO es un criterio de actuación de los Poderes Públicos:",
+    "opciones": {
+        "a": "La participación equilibrada de mujeres y hombres en las candidaturas electorales y en la toma de decisiones.",
+        "b": "La colaboración y cooperación entre las distintas Administraciones Públicas en la aplicación del principio de igualdad de trato y de oportunidades.",
+        "c": "La creación de un Comité Interautonómico de Vigilancia y Seguimiento de la Igualdad entre mujeres y hombres.",
+        "d": "El compromiso con la efectividad del derecho constitucional de igualdad entre mujeres y hombres."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 115,
+    "enunciado": "De acuerdo con el Artículo 18 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, en los términos que reglamentariamente se determinen, el gobierno elaborará un informe periódico sobre el conjunto de sus actuaciones en relación con la efectividad del principio de igualdad entre mujeres y hombres. De este informe se dará cuenta a:",
+    "opciones": {
+        "a": "El Consejo de Ministros.",
+        "b": "El Congreso de los Diputados.",
+        "c": "Las Cortes Generales.",
+        "d": "El Defensor del Pueblo."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 116,
+    "enunciado": "Según la Ley de Cantabria 1/2004, de 1 de abril, Integral para la Prevención de la Violencia contra las Mujeres y la Protección a sus víctimas, en su artículo 15 ¿Qué órgano realizará un seguimiento de todas las actuaciones que desde el ámbito público o privado que se realicen en materia de prevención de la violencia de género y la protección de sus víctimas, recabando información y garantizando su coordinación en aras de conseguir la mayor eficacia posible?",
+    "opciones": {
+        "a": "El Parlamento de Cantabria",
+        "b": "El Gobierno de Cantabria",
+        "c": "El Ministerio Fiscal",
+        "d": "El Defensor del Pueblo"
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 117,
+    "enunciado": "Señale la afirmación correcta, según el artículo 16 de la Ley de Cantabria 1/2004, de 1 de abril, Integral para la Prevención de la Violencia contra las Mujeres y la protección de sus víctimas, el Gobierno de Cantabria pondrá a disposición de las víctimas de violencia de género, sus hijos e hijas o personas sujetas a su tutela o acogimiento:",
+    "opciones": {
+        "a": "Casas de emergencia y acogida, centros de acogimiento al servicio de las víctimas en aquellas situaciones en que por su gravedad, urgencia o por carecer de recursos alternativos, así lo requieran.",
+        "b": "Pisos tutelados.",
+        "c": "Centros de información y atención integral.",
+        "d": "Todas las anteriores son ciertas."
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 118,
+    "enunciado": "Según el artículo 20 de la Ley de Cantabria 1/2004, de 1 de abril, Integral para la Prevención de la Violencia contra las Mujeres y protección a sus víctimas, en relación con la atención sanitaria, ES CORRECTO:",
+    "opciones": {
+        "a": "El protocolo incorporará un modelo de informe en el que se reflejarán las actuaciones seguidas en el ámbito sanitario y la derivación de la mujer a los servicios sociales o instancias judiciales que procedan.",
+        "b": "La asistencia psicológica inmediata deberá ser considerada como una atención básica de salud.",
+        "c": "En aquellos casos en que exista constatación o sospecha fundada de daños físicos o psíquicos ocasionados por estas agresiones o abusos, el informe será remitido de forma inmediata al juzgado de guardia y a la fiscalía.",
+        "d": "Todas las anteriores son correctas."
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 119,
+    "enunciado": "Según el vigente Protocolo de Actuación Sanitaria ante los Malos Tratos de Cantabria, dentro de las repercusiones de violencia en la salud de las mujeres. Señale cuál NO sería una repercusión sobre la salud mental:",
+    "opciones": {
+        "a": "Aislamiento social.",
+        "b": "Depresión.",
+        "c": "Trastornos del comportamiento alimentario.",
+        "d": "Abuso de alcohol, drogas y psicofármacos."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 120,
+    "enunciado": "Según el vigente Protocolo de Actuación Sanitaria ante los Malos Tratos de Cantabria, dentro de las dificultades para identificar y/o intervenir en casos de malos tratos desde los servicios sanitarios, cuál NO sería un factor en relación a la mujer:",
+    "opciones": {
+        "a": "Culpabilización: puede creer que merece el maltrato, que es su culpa, la mujer asume la responsabilidad de lo que ocurre.",
+        "b": "Desconfianza en el personal sanitario: cree que ese no es su papel, no confía en la confidencialidad de la información.",
+        "c": "Falta de privacidad e intimidad en las consultas, con frecuentes interrupciones, dificultades con el idioma, el agresor puede estar presente, registro de la historia clínica a la que muchas personas pueden acceder.",
+        "d": "Minimización: cree que las lesiones no son lo suficientemente importantes como para mencionarlo. No es consciente de la gravedad o del peligro de la situación. No relaciona sus síntomas físicos con la situación de estrés."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 121,
+    "enunciado": "Dentro del plan de actuación en mujer sin riesgo actual de malos tratos según el vigente Protocolo de Actuación Sanitaria ante los Malos Tratos de Cantabria, señale cuál sería una actuación a seguir:",
+    "opciones": {
+        "a": "Repetir la investigación con una periodicidad de 1 año o antes si aparecen indicadores de sospecha.",
+        "b": "Repetir la investigación con una periodicidad de 3 años o antes si aparecen indicadores de sospecha.",
+        "c": "Repetir la investigación con una periodicidad de 5 años o antes si aparecen indicadores de sospecha.",
+        "d": "Repetir la investigación con una periodicidad de 2 años o antes si aparecen indicadores de sospecha."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 122,
+    "enunciado": "En relación al sujeto responsable a efectos de cotización regulado en el artículo 142 del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social, señale cuál de las siguientes afirmaciones es la correcta:",
+    "opciones": {
+        "a": "El empresario descontará a sus trabajadores, en el momento de hacerles efectivas sus retribuciones, la aportación que corresponda a cada uno de ellos, si no efectuase el descuento en dicho momento podrá realizarlo con posterioridad, quedando obligado a ingresar el 75%, siendo el 25% restante a cargo del trabajador.",
+        "b": "El empresario descontará a sus trabajadores, en el momento de hacerles efectivas sus retribuciones, la aportación que corresponda a cada uno de ellos, si no efectuase el descuento en dicho momento no podrá realizarlo con posterioridad, quedando obligado a ingresar la totalidad de las cuotas a su exclusivo cargo.",
+        "c": "El empresario descontará a sus trabajadores, en el momento de hacerles efectivas sus retribuciones, la aportación que corresponda a cada uno de ellos, si no efectuase el descuento en dicho momento no podrá realizarlo con posterioridad, quedando obligado a ingresar el 75%, siendo el 25% a cargo del trabajador.",
+        "d": "El empresario descontará a sus trabajadores, en el momento de hacerles efectivas sus retribuciones, la aportación que corresponda a cada uno de ellos, si no efectuase el descuento en dicho momento podrá realizarlo con posterioridad, quedando obligado a ingresar la totalidad de las cuotas a su exclusivo cargo."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 123,
+    "enunciado": "Según el Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social, en su artículo 148 relativo a los topes máximo y mínimo de la base de cotización, señale la afirmación correcta:",
+    "opciones": {
+        "a": "El tope máximo de la base de cotización, único para todas las actividades, categorías profesionales y contingencias incluidas en este Régimen, será el establecido, para cada dos años, en la correspondiente Ley de Presupuestos Generales del Estado.",
+        "b": "El tope máximo de la base de cotización, único para todas las actividades, categorías profesionales y contingencias incluidas en este Régimen, será el establecido, para cada año, en la correspondiente Ley de Presupuestos Generales del Estado.",
+        "c": "El tope máximo de la base de cotización, único para todas las actividades, categorías profesionales y contingencias incluidas en este Régimen, será el establecido, para cada tres años, en la correspondiente Ley de Presupuestos Generales del Estado.",
+        "d": "El tope máximo de la base de cotización, único para todas las actividades, categorías profesionales y contingencias incluidas en este Régimen, será el establecido, para cada cinco años, en la correspondiente Ley de Presupuestos Generales del Estado."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 124,
+    "enunciado": "Según el Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social, en relación a la duración de la obligación de cotizar regulada en el artículo 144, señale la afirmación correcta:",
+    "opciones": {
+        "a": "La obligación de cotizar nacerá con el inicio de la prestación del trabajo, sin incluir el periodo de prueba. La mera solicitud de la afiliación o alta del trabajador al organismo competente de la administración de la Seguridad Social surtirá en todo caso idéntico efecto.",
+        "b": "La obligación de cotizar no se suspenderá durante las situaciones de huelga y cierre patronal.",
+        "c": "La obligación de cotizar se mantendrá por todo el periodo en que el trabajador esté en alta en el Régimen General o preste sus servicios, aunque estos revistan carácter discontinuo. Dicha obligación subsistirá asimismo respecto a los trabajadores que se encuentren cumpliendo deberes de carácter público o desempeñando cargos de representación sindical siempre que ello no de lugar a la excedencia en el trabajo.",
+        "d": "La obligación de cotizar por las contingencias de accidentes de trabajo y enfermedades profesionales existirá únicamente si la empresa tuviera establecida la protección de su personal, o de parte de él, respecto a dichas contingencias."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 125,
+    "enunciado": "Según el Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social, en su artículo 143 relativo a la nulidad de pactos, es correcto que:",
+    "opciones": {
+        "a": "Será nulo todo pacto, individual o colectivo, por el cual el trabajador asuma la obligación de pagar total o parcialmente la prima o parte de la cuota a cargo del empresario.",
+        "b": "Se podrá pactar individual o colectivamente que el trabajador asuma la obligación de pagar parcialmente la prima o parte de la cuota a parte del empresario.",
+        "c": "Se podrá pactar individual o colectivamente que el trabajador asuma la obligación de pagar totalmente la prima o parte de la cuota a parte del empresario.",
+        "d": "Será nulo todo pacto individual por el cual el trabajador asuma la obligación de pagar, total o parcialmente, la prima o parte de cuota a cargo del empresario, sin embargo podrá ser pactado en Convenio Colectivo."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 126,
+    "enunciado": "De acuerdo con el artículo 15 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, el establecimiento, modificación o supresión de las categorías de personal estatutario corresponderá:",
+    "opciones": {
+        "a": "Al Ministerio de Sanidad, Servicios Sociales e Igualdad.",
+        "b": "Al ámbito de cada servicio de salud.",
+        "c": "Al Consejo Interterritorial del Sistema Nacional de Salud.",
+        "d": "Ninguna respuesta es correcta."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 127,
+    "enunciado": "El artículo 10 de la Ley 9/2010, de 23 de diciembre, de personal estatutario de instituciones sanitarias de la Comunidad Autónoma de Cantabria determina que los planes de ordenación de recursos humanos serán aprobados por:",
+    "opciones": {
+        "a": "El Gobierno, previa negociación en la Mesa Sectorial de Personal de Instituciones Sanitarias, y serán publicados en el «Boletín Oficial de Cantabria».",
+        "b": "La Consejería competente en materia de sanidad, previa negociación en la Mesa Sectorial de Personal de Instituciones Sanitarias, y serán publicados en el «Boletín Oficial de Cantabria».",
+        "c": "El Gobierno y serán publicados en el «Boletín Oficial de Cantabria». A criterio del Gobierno podrán ser previamente negociados en la Mesa Sectorial de Personal de Instituciones Sanitaria.",
+        "d": "La Consejería competente en materia de sanidad, previa negociación con las organizaciones sindicales más representativas a nivel estatal y en la Comunidad Autónoma de Cantabria, así como los sindicatos que hayan obtenido el diez por ciento o más de los representantes en las elecciones para delegados y juntas de personal en el Servicio Cántabro de Salud, y serán publicados en el «Boletín Oficial de Cantabria»."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 128,
+    "enunciado": "Cuál de las siguientes respuestas NO es un derecho individual del personal al que hace referencia el artículo 17 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud:",
+    "opciones": {
+        "a": "La formación continuada adecuada a la función desempeñada y al reconocimiento de su cualificación profesional en relación a dichas funciones.",
+        "b": "Ser informado de las funciones, tareas, cometidos, programación funcional y objetivos asignados a su unidad, centro o institución, y de los sistemas establecidos para la evaluación del cumplimiento de los mismos.",
+        "c": "A la huelga, garantizándose en todo caso el mantenimiento de los servicios que resulten esenciales para la atención sanitaria a la población.",
+        "d": "La acción social en los términos y ámbitos subjetivos que se determinen en las normas, acuerdos o convenios aplicables."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 129,
+    "enunciado": "El artículo 22 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud determina que la renuncia a la condición de personal estatutario deberá ser solicitada por el interesado con una antelación mínima de:",
+    "opciones": {
+        "a": "15 días a la fecha en que se desee hacer efectiva.",
+        "b": "20 días a la fecha en que se desee hacer efectiva.",
+        "c": "20 días a la fecha en que se desee hacer efectiva y será aceptada en todo caso.",
+        "d": "30 días a la fecha en que se desee hacer efectiva."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 130,
+    "enunciado": "Señale la respuesta INCORRECTA con respecto a la formación regulada en el artículo 18 de la Ley 9/2010, de 23 de diciembre, de personal estatutario de instituciones sanitarias de la Comunidad Autónoma de Cantabria.",
+    "opciones": {
+        "a": "La formación propia será siempre objeto de acreditación institucional.",
+        "b": "Se configura como un derecho y deber del personal estatutario.",
+        "c": "Es un instrumento para la modernización, calidad y buena gestión del servicio sanitario.",
+        "d": "La actividad formativa deberá completarse con sistemas de evaluación de las competencias adquiridas y del impacto en la organización."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 131,
+    "enunciado": "De acuerdo con el artículo 25 de la Ley 9/2010, de 23 de diciembre, de personal estatutario de instituciones sanitarias de la Comunidad Autónoma de Cantabria, la rehabilitación de quien hubiera perdido la condición de personal estatutario fijo, por haber sido condenado a la pena principal o accesoria de inhabilitación absoluta o especial, una vez cumplida ésta, atendiendo a las circunstancias y entidad del delito cometido podrá ser concedida por:",
+    "opciones": {
+        "a": "El Gobierno, con carácter ordinario, a propuesta de la persona titular de la Consejería competente en materia de sanidad a instancia del Servicio Cántabro de Salud.",
+        "b": "La persona titular de la Consejería competente en materia de sanidad, con carácter ordinario, a propuesta del Servicio Cántabro de salud y a petición de la persona interesada.",
+        "c": "El Gobierno, con carácter excepcional, a propuesta de la persona titular de la Consejería competente en materia de sanidad y a petición de la persona interesada.",
+        "d": "La persona titular de la Consejería competente en materia de sanidad, con carácter extraordinario, a propuesta de oficio del Servicio Cántabro de salud a instancia de la persona interesada."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 132,
+    "enunciado": "Conforme señala el artículo 31 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la selección del personal estatutario fijo se efectuará con carácter general a través del:",
+    "opciones": {
+        "a": "Sistema de concurso.",
+        "b": "Sistema de concurso-oposición.",
+        "c": "Sistema de oposición.",
+        "d": "Todas las respuestas son correctas."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 133,
+    "enunciado": "De acuerdo con el artículo 33 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, el personal estatutario temporal podrá estar sujeto a un período de prueba que no podrá superar los tres meses de trabajo efectivo en el caso:",
+    "opciones": {
+        "a": "Del personal cuyo título exigido para el ingreso sea la formación universitaria.",
+        "b": "Del personal sanitario.",
+        "c": "Del personal de gestión y servicios.",
+        "d": "Ninguna respuesta es correcta."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 134,
+    "enunciado": "A tenor del artículo 35 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la promoción interna temporal:",
+    "opciones": {
+        "a": "Se podrá ofrecer a todo el personal estatutario.",
+        "b": "El interesado se mantendrá en servicio activo en su categoría de origen, durante el tiempo en que realice funciones en promoción interna temporal.",
+        "c": "Se percibirán las retribuciones y trienios correspondientes a las funciones efectivamente desempeñadas durante el tiempo en que realice funciones en promoción interna temporal.",
+        "d": "El ejercicio de funciones en promoción interna temporal supondrá la consolidación de los derechos de carácter retributivo."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 135,
+    "enunciado": "Según dispone el artículo 35 de la Ley 9/2010, de 23 de diciembre, de personal estatutario de instituciones sanitarias de la Comunidad Autónoma de Cantabria, para poder participar en las convocatorias de selección de personal estatutario fijo será necesario reunir uno de los siguientes requisitos, señale el correcto:",
+    "opciones": {
+        "a": "Poseer la titulación exigida en la convocatoria o estar en condiciones de obtenerla antes de la convocatoria del examen.",
+        "b": "Tener cumplidos dieciocho años y no exceder de la edad de jubilación forzosa.",
+        "c": "No tener la condición de personal estatutario fijo en la misma categoría y, en su caso, especialidad a la que se opta.",
+        "d": "No haber sido separado mediante expediente disciplinario del servicio en cualquier Servicio de Salud o Administración Pública en los cuatro años anteriores a la convocatoria."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 136,
+    "enunciado": "De acuerdo al artículo 42 de la Ley 9/2010, de 23 de diciembre, de personal estatutario de instituciones sanitarias de la Comunidad Autónoma de Cantabria, el concursante que obtenga plaza en los concursos de traslados siempre que el procedimiento de movilidad implique cambio efectivo de puesto de trabajo desempeñado, la toma de posesión deberá efectuarse dentro de los:",
+    "opciones": {
+        "a": "Diez días siguientes al del cese, salvo que quien haya obtenido el traslado proceda de otra Comunidad Autónoma, en cuyo caso será de un mes.",
+        "b": "Tres días siguientes al del cese, salvo que quien haya obtenido el traslado proceda de otra Comunidad Autónoma, en cuyo caso será de un mes.",
+        "c": "Quince días siguientes al del cese, salvo que quien haya obtenido el traslado proceda de otra Comunidad Autónoma, en cuyo caso será de un mes.",
+        "d": "Tres días siguientes al del cese, salvo que quien haya obtenido el traslado proceda de otra Comunidad Autónoma, en cuyo caso será de quince días."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 137,
+    "enunciado": "Conforme al artículo 43 de la 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, cuál de las siguientes respuestas NO es una retribución complementaria:",
+    "opciones": {
+        "a": "Complemento extraordinario.",
+        "b": "Complemento específico.",
+        "c": "Complemento de productividad.",
+        "d": "Complemento de atención continuada."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 138,
+    "enunciado": "El artículo 48 de la 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, establece que la duración máxima conjunta de los tiempos de trabajo correspondientes a la jornada complementaria y a la jornada ordinaria será de:",
+    "opciones": {
+        "a": "45 horas semanales de trabajo efectivo de promedio en cómputo semestral, en todo caso.",
+        "b": "45 horas semanales de trabajo efectivo de promedio en cómputo semestral, salvo que mediante acuerdo, pacto o convenio colectivo se establezca otro cómputo.",
+        "c": "48 horas semanales de trabajo efectivo de promedio en cómputo semestral, salvo que mediante acuerdo, pacto o convenio colectivo se establezca otro cómputo.",
+        "d": "50 horas semanales de trabajo efectivo de promedio en cómputo semestral, salvo que mediante acuerdo, pacto o convenio colectivo se establezca otro cómputo."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 139,
+    "enunciado": "Según lo establecido en el artículo 73 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la sanción de separación del servicio sólo se impondrá por la comisión de faltas:",
+    "opciones": {
+        "a": "Leves",
+        "b": "Muy graves.",
+        "c": "Graves",
+        "d": "Únicamente podrá imponerse por resolución judicial."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 140,
+    "enunciado": "Según el artículo 15 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, uno de los siguientes principios generales NO corresponde a las medidas aplicadas por el empresario:",
+    "opciones": {
+        "a": "Evitar los riesgos.",
+        "b": "Combatir los riesgos en su origen.",
+        "c": "Tener en cuenta la evolución de la técnica.",
+        "d": "Adoptar medidas que antepongan la protección individual a la colectiva."
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 141,
+    "enunciado": "Señale la afirmación INCORRECTA en relación con el artículo 35 de Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales:",
+    "opciones": {
+        "a": "Los Delegados de Prevención son los representantes de los trabajadores con funciones específicas en materias de prevención de riesgos en el trabajo.",
+        "b": "Las Empresas de 100 trabajadores estarán representadas por 3 Delegados de Prevención.",
+        "c": "En las empresas de 20 trabajadores el Delegado de Prevención será el Delegado de Personal.",
+        "d": "En las empresas de treinta y uno a cuarenta y nueve trabajadores habrá un Delegado de Prevención que será elegido por y entre los Delegados de Personal."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 142,
+    "enunciado": "Señale la afirmación INCORRECTA en relación con el artículo 22 de la Ley de 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales:",
+    "opciones": {
+        "a": "El empresario garantizará a los trabajadores a su servicio la vigilancia periódica de su estado de salud en función de los riesgos inherentes al trabajo.",
+        "b": "En los supuestos en que la naturaleza de los riesgos inherentes al trabajo lo haga necesario, el derecho de los trabajadores a la vigilancia periódica de su estado de salud nunca deberá ser prorrogado más allá de la finalización de la relación laboral.",
+        "c": "Las medidas de vigilancia y control de la salud de los trabajadores, se llevarán a cabo respetando siempre el derecho a la intimidad y a la dignidad de la persona del trabajador y la confidencialidad de toda la información relacionada con su estado de salud.",
+        "d": "Las medidas de vigilancia y control de la salud de los trabajadores se llevará a cabo por personal sanitario con competencia técnica, formación y capacidad acreditada."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 143,
+    "enunciado": "Señale la respuesta correcta en relación al artículo 38 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales que establece:",
+    "opciones": {
+        "a": "Se constituirá un comité de seguridad y salud en todas las empresas o centros de trabajo que cuenten con 60 o más trabajadores.",
+        "b": "En las reuniones del Comité de Seguridad y Salud, participarán con voz y voto, los Delegados Sindicales y responsables técnicos de la prevención en la empresa y trabajadores cualificados.",
+        "c": "El Comité de Seguridad y Salud se reunirá semestralmente y siempre que lo solicite alguna de las representaciones en el mismo. El comité adoptará sus propias normas de funcionamiento.",
+        "d": "Las empresas que cuenten con varios centros de trabajo dotados con Comité de Seguridad y Salud, podrán acordar con sus trabajadores la creación de un Comité Intercentros, con las funciones que el acuerdo atribuya."
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 144,
+    "enunciado": "Según el artículo 40 de la Ley 31/1955, de 8 de noviembre, de Prevención de Riesgos Laborales, sobre colaboración con la Inspección de Trabajo y Seguridad Social, señale la respuesta correcta:",
+    "opciones": {
+        "a": "Todas las organizaciones sindicales y empresariales que hayan obtenido representación, serán consultadas con carácter previo a la elaboración de los planes de actuación de la Inspección de Trabajo y Seguridad Social en materia de prevención de riesgos en el trabajo.",
+        "b": "La Inspección de Trabajo y Seguridad Social informará a los Delegados de Prevención sobre los resultados de las visitas a los centros de trabajo.",
+        "c": "En las visitas a los centros de trabajo para comprobar el cumplimiento de la normativa sobre prevención de riesgos laborales, el Inspector de Trabajo y Seguridad Social, únicamente y sin excepción, deberá comunicar su presencia al empresario.",
+        "d": "La Inspección de Trabajo y Seguridad Social, podrá informar sobre los resultados de las visitas y las medidas adoptadas como consecuencias de las mismas al empresario, mediante diligencia en el Libro de Visitas de la Inspección de Trabajo y Seguridad Social que debe existir en cada centro de trabajo."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 145,
+    "enunciado": "El ANEXO del Real Decreto 488/1997, de 14 de abril, sobre disposiciones mínimas de seguridad y salud relativas al trabajo con equipos que incluyen pantallas de visualización, establece una serie de obligaciones relacionadas con el equipo, el entorno y la interconexión ordenador/persona, señale la respuesta INCORRECTA relacionada con dichas obligaciones:",
+    "opciones": {
+        "a": "El usuario de terminales con pantalla deberá solicitar al personal competente en la vigilancia de la salud, el ajuste de la luminosidad y el contraste entre los caracteres y el fondo de la pantalla, para adaptarlos a las condiciones del entorno.",
+        "b": "El soporte de los documentos deberá ser estable y regulable y estará colocado de tal modo que se reduzcan al mínimo los movimientos incómodos de la cabeza y los ojos.",
+        "c": "La iluminación general y la iluminación especial (lámparas de trabajo), cuando sea necesaria, deberán garantizar unos niveles adecuados de iluminación y unas relaciones adecuadas de luminancias entre la pantalla y su entorno, habida cuenta del carácter del trabajo, de las necesidades visuales del usuario y del tipo de pantalla utilizado.",
+        "d": "Toda radiación, excepción hecha de la parte visible del espectro electromagnético, deberá reducirse a niveles insignificantes desde el punto de vista de la protección de la seguridad y de la salud de los trabajadores."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 146,
+    "enunciado": "Un sistema informático es aquel que permite almacenar y procesar información, y se compone de las siguientes partes:",
+    "opciones": {
+        "a": "Hardware y software.",
+        "b": "Componente humano.",
+        "c": "La respuesta A y B son correctas.",
+        "d": "Ninguna de las respuestas es correcta."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 147,
+    "enunciado": "El conjunto de los programas de cómputo, procedimientos, reglas, documentación y datos asociados, que forman parte de las operaciones de un sistema de computación se denomina:",
+    "opciones": {
+        "a": "Sistema operativo.",
+        "b": "Soporte lógico.",
+        "c": "Software.",
+        "d": "La respuesta B y C son correctas."
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 148,
+    "enunciado": "La red informática de carácter privado para compartir información, sistemas operativos o servicios de computación dentro de una organización se denomina:",
+    "opciones": {
+        "a": "Correo electrónico.",
+        "b": "Intranet.",
+        "c": "Blog.",
+        "d": "Navegador."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 149,
+    "enunciado": "La tabla dinámica de las hojas de cálculo se puede definir como:",
+    "opciones": {
+        "a": "Herramienta que permite crear un lote de cartas personalizadas en las que cada letra es idéntica en diseño, formato, texto y gráficos, excepto para partes personalizadas como el saludo.",
+        "b": "Herramienta avanzada para calcular, resumir y analizar datos que le permite ver comparaciones, patrones y tendencias en ellos.",
+        "c": "Documento que otros usuarios pueden completar por medio de una plantilla.",
+        "d": "Programa que permite archivar documentos de forma eficiente."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 150,
+    "enunciado": "Cuál de las siguientes opciones NO es del tipo de alineación de párrafo en los procesadores de texto habituales:",
+    "opciones": {
+        "a": "Justificada.",
+        "b": "Izquierda.",
+        "c": "Centrada.",
+        "d": "Extensa."
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 151,
+    "enunciado": "Según establece el artículo 10 del Decreto 42/2019, de 28 de marzo, por el que se regula el Régimen Jurídico y Organizativo de la Atención Ciudadana y del ejercicio de la Función Administrativa de Registro en la Administración de la Comunidad Autónoma de Cantabria, la información administrativa ofrecida a través del portal web institucional cabecera de la Comunidad Autónoma de Cantabria, identificado por la URL www.cantabria.es, o en la sede electrónica, accesible en la dirección electrónica https://sede.cantabria.es. Señale la respuesta CORRECTA:",
+    "opciones": {
+        "a": "Tiene los mismos efectos que la publicación en el Boletín Oficial de Cantabria.",
+        "b": "Indistintamente puede publicarse a través de la web institucional, sede electrónica o Boletín Oficial de Cantabria con la misma validez.",
+        "c": "Solo la sede electrónica y el Boletín Oficial de Cantabria tienen el efecto de publicación legal.",
+        "d": "No sustituye a la publicidad legal de las disposiciones normativas y actos que deban ser objeto de publicación en el Boletín Oficial de Cantabria."
+    },
+    "respuesta_correcta": "d"
+},
+{
+    "numero": 152,
+    "enunciado": "Conforme dispone el artículo 33 del Decreto 42/2019, de 28 de marzo, por el que se regula el Régimen Jurídico y Organizativo de la Atención Ciudadana y del ejercicio de la Función Administrativa de Registro en la Administración de la Comunidad Autónoma de Cantabria:",
+    "opciones": {
+        "a": "La Administración de la Comunidad Autónoma de Cantabria establecerá obligatoriamente modelos específicos de presentación de solicitudes para cada procedimiento.",
+        "b": "Los modelos específicos de presentación de solicitudes para cada procedimiento establecidos por la Administración de la Comunidad Autónoma de Cantabria podrán ser usados por las personas interesadas.",
+        "c": "Los modelos específicos de presentación de solicitudes para cada procedimiento que establezca la Administración de la Comunidad Autónoma de Cantabria serán de uso obligatorio para las personas interesadas.",
+        "d": "Los modelos específicos de presentación de solicitudes establecidos para cada procedimiento por la Administración de la Comunidad Autónoma de Cantabria, se publicarán en el Boletín Oficial de Cantabria y en la sede del Registro Electrónico General."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 153,
+    "enunciado": "Según el artículo 26 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, tendrán la consideración de contratos privados:",
+    "opciones": {
+        "a": "Los celebrados por entidades del sector público que siendo poder adjudicador, reúnan la condición de Administraciones Públicas.",
+        "b": "Los contratos celebrados por entidades del sector público que no reúnan la condición de poder adjudicador.",
+        "c": "Los contratos de concesión de obra celebrados por las Administraciones Públicas que tengan por objeto la conservación y el mantenimiento de elementos construidos, existiendo una contraprestación a favor del concesionario consistente en el derecho de explotar la obra o de percibir un precio.",
+        "d": "Todas las respuestas anteriores son correctas."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 154,
+    "enunciado": "Conforme el artículo 33 de la Ley 14/2006, de 24 de octubre, de Finanzas de Cantabria, ¿cuál de las siguientes afirmaciones es correcta?",
+    "opciones": {
+        "a": "El ejercicio presupuestario coincidirá con el año natural, y a él se imputarán los derechos económicos reconocidos hasta el fin del mes de diciembre y las obligaciones económicas liquidadas durante el ejercicio.",
+        "b": "Con independencia de la existencia de saldo de crédito anulado en el ejercicio de procedencia, podrán atenderse con cargo a créditos del presupuesto corriente obligaciones pendientes de ejercicios anteriores, en los casos en que figure dotado un crédito específico destinado a dar cobertura a dichas obligaciones.",
+        "c": "No podrán aplicarse a créditos del ejercicio corriente obligaciones contraídas en ejercicios anteriores.",
+        "d": "En el caso en que figure dotado un crédito adecuado y exista saldo de crédito anulado en el ejercicio de procedencia, podrán atenderse con cargo a créditos del presupuesto corriente obligaciones de ejercicios anteriores."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 155,
+    "enunciado": "El acto por el que se acuerda la realización de gastos por un importe determinado o determinable, con relevancia jurídica para con terceros, ¿a qué fase del procedimiento de la ejecución del gasto, definido en el artículo 71 de la Ley 14/2006, de 24 de octubre de Finanzas de Cantabria, corresponderá?",
+    "opciones": {
+        "a": "Aprobación del gasto.",
+        "b": "Autorización y reconocimiento de la obligación, cuando se acumulan en un solo acto las dos fases de ejecución.",
+        "c": "Aprobación y compromiso del gasto, si no se hubiera aprobado previamente.",
+        "d": "Reconocimiento de la obligación."
+    },
+    "respuesta_correcta": "c"
+},
+{
+    "numero": 156,
+    "enunciado": "Los Hospitales podrán prestar asistencia especializada en más de un área de Salud:",
+    "opciones": {
+        "a": "En ningún caso.",
+        "b": "Sí, dependiendo de sus características.",
+        "c": "Los pertenecientes al Área de Laredo.",
+        "d": "Todas son incorrectas."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 157,
+    "enunciado": "El objeto de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional, según su artículo 1, es establecer el marco legal para las acciones de coordinación y cooperación de las Administraciones públicas sanitarias, en el ejercicio de sus respectivas competencias, de modo que se garantice:",
+    "opciones": {
+        "a": "La calidad y la participación sindical en el Sistema Nacional de Salud, así como la colaboración activa de éste en la reducción de las desigualdades en salud.",
+        "b": "La equidad, la calidad y la participación social en el Sistema Nacional de Salud, así como la colaboración activa de éste en la reducción de las desigualdades en salud.",
+        "c": "La igualdad, la excelencia y la participación social en el Sistema Nacional de Salud, así como la colaboración activa de éste en la reducción de las desigualdades en salud.",
+        "d": "La calidad, la excelencia y la participación social en el Sistema Nacional de Salud, así como la colaboración activa de éste en la reducción de las desigualdades en salud."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 158,
+    "enunciado": "Según el artículo 3 de la Ley 7/2006, de 15 de junio, de garantías de tiempos máximos de respuesta en atención sanitaria especializada en el sistema sanitario público de Cantabria, dentro del ámbito objetivo de aplicación de la misma estaría incluido:",
+    "opciones": {
+        "a": "Procedimientos quirúrgicos, con prescripción no programada establecida por un médico especialista quirúrgico y aceptada por el o la paciente, para cuya realización el hospital tenga previsto la utilización de quirófano. No resultará de aplicación la presente Ley a los o las pacientes cuya intervención sea programada durante el episodio de hospitalización en el que se establece la indicación quirúrgica, quedando así mismo excluidas las intervenciones quirúrgicas de carácter urgente, las de trasplantes de órganos y tejidos y las relacionadas con las técnicas de reproducción humana asistida.",
+        "b": "Pruebas diagnósticas especializadas que sean solicitadas por los facultativos que desempeñen sus funciones en una consulta programada ambulatoria de un centro de atención primaria o especializada del Servicio Cántabro de Salud, y que no tengan la consideración de pruebas de revisión o control evolutivo ni de despistaje.",
+        "c": "Primeras consultas de asistencia especializada urgentes o programadas y en régimen ambulatorio que sean solicitadas por indicación de un médico de atención primaria para un médico de atención especializada, que sean efectuadas a un o una paciente, por primera vez, en una especialidad concreta y por un problema de salud nuevo y que no tengan la consideración de revisiones.",
+        "d": "Todas las anteriores son ciertas."
+    },
+    "respuesta_correcta": "b"
+},
+{
+    "numero": 159,
+    "enunciado": "De acuerdo con el artículo 3 del Real Decreto 183/2004, de 30 de enero, por el que se regula la tarjeta sanitaria individual, dentro de los datos básicos a incluir en el anverso de la tarjeta sanitaria individual, deberá constar necesariamente:",
+    "opciones": {
+        "a": "El Código de identificación de la administración sanitaria emisora de la tarjeta.",
+        "b": "El número del Documento Nacional de Identidad de su titular.",
+        "c": "La Fecha de caducidad de la tarjeta.",
+        "d": "El Número de la Seguridad Social."
+    },
+    "respuesta_correcta": "a"
+},
+{
+    "numero": 160,
+    "enunciado": "Indique cuál de las siguientes características de la memoria ROM es correcta:",
+    "opciones": {
+        "a": "Es volátil.",
+        "b": "Es solo de lectura.",
+        "c": "Es memoria secundaria para almacenar los programas que el PC va a ejecutar.",
+        "d": "Ninguna respuesta es correcta."
+    },
+    "respuesta_correcta": "b"
 }
 ]
