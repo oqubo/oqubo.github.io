@@ -37,9 +37,9 @@ document.write('                      <span class="icon-bar"></span>');
 document.write('                  </button>');
 */
 
-document.write('<a class="navbar-brand" href="index.html">');
-document.write('<h1><img src="imgaes/logo.png" width="100px" alt="logo""></h1>');
-document.write('<h1 style="font-family: \'Quicksand\', sans-serif;">oqubo</h1>');
+document.write('<a class="navbar-brand" href="index.html" style="display: flex; align-items: center;">');
+/*document.write('<img src="images/logo.png" width="50px" alt="logo" style="display: inline-block; margin-right: 10px;">');*/
+document.write('<h1 style="font-family: \'Quicksand\', sans-serif; display: inline-block; margin: 0;">oqubo</h1>');
 document.write('</a>');
 document.write('              </div>');/*end navbar-header*/
 
