@@ -17,13 +17,14 @@ document.write('      <li><a href=""><i class="fa fa-linkedin"></i></a></li>');
 document.write('      <li><a href="about.html"><i class="fas fa-address-card"></i></a></li>');
 document.write('      <li><a href="https://www.instagram.com/desdeanavega" target="_blank"><i class="fab fa-instagram"></i></a></li>');
 document.write('      <li><a href="https://www.behance.net/vegaana2e41" target="_blank"><i class="fab fa-behance-square"></i></a></li>');
-document.write('      <li><a href="mailto:vega.ana@gmail.com"><i class="fa fa-envelope"></i></a></li>');
+*/
+document.write('      <li><a href="mailto:contacto@oqubo.es"><i class="fa fa-envelope"></i></a></li>');
 document.write('                      </ul>');
 document.write('                  </div>');
 document.write('              </div>');
 document.write('           </div>');
 document.write('      </div>');
-*/
+
 
 /***** NAVBAR *****/
 document.write('      <div class="navbar navbar-inverse" role="banner">');
