@@ -1,150 +1,65 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <title>oqubo</title>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
-    <link href="css/lightbox.css" rel="stylesheet">
-    <link href="css/animate.min.css" rel="stylesheet">
-	<link href="css/main.css" rel="stylesheet">
-	<link href="css/responsive.css" rel="stylesheet">
-  <script type="text/javascript" src="js/jquery.js"></script>
-  <script type="text/javascript" src="js/bootstrap.min.js"></script>
-  <script type="text/javascript" src="js/jquery.isotope.min.js"></script>
-  <script type="text/javascript" src="js/lightbox.min.js"></script>
-  <script type="text/javascript" src="js/wow.min.js"></script>
-  <script type="text/javascript" src="js/main.js"></script>
-
-    <!--[if lt IE 9]>
-	    <script src="js/html5shiv.js"></script>
-	    <script src="js/respond.min.js"></script>
-    <![endif]-->
-    <link rel="shortcut icon" href="images/favicon.ico">
-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <title>Oqubo - Videojuegos y Patrimonio Cultural</title>
     <link href="https://fonts.googleapis.com/css2?family=Playwrite+NL:wght@100..400&family=Quicksand:wght@300..700&family=Zain:wght@200;300;400;700;800;900&display=swap" rel="stylesheet">
-   
-</head><!--/head-->
-
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
 <body>
-
-
-
-  <script language="javascript" type="text/javascript" src="header.js"></script>
-
-
-<!--
-    <section id="page-breadcrumb">
-        <div class="vertical-center sun">
-             <div class="container">
-                <div class="row">
-                    <div class="action">
-                        <div class="col-sm-12">
-                            <h1 class="title">Portfolio</h1>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-   </section>
--->
-
-    <section id="portfolio">
+    <header class="header">
         <div class="container">
-            <div class="row">
-                <ul class="portfolio-filter text-center">
-                    <li><a class="btn btn-default active" href="#" data-filter="*">Todo</a></li>
-                    <li><a class="btn btn-default" href="#" data-filter=".videojuego">Videojuegos</a></li>
-                    <li><a class="btn btn-default" href="#" data-filter=".juegodemesa">Juegos de mesa</a></li>
-                    <li><a class="btn btn-default" href="#" data-filter=".otro">Otros</a></li>
-                </ul><!--/#portfolio-filter-->
+            <div class="logo-section">
+                <div class="logo-placeholder"></div>
+                <span class="company-name">oqubo</span>
+            </div>
+            <nav class="nav-links">
+                <a href="mailto:contacto@oqubo.es" class="nav-link" title="Email">
+                    <i class="fas fa-envelope"></i>
+                </a>
+                <a href="https://play.google.com/store/apps/dev?id=8285512681047721607" class="nav-link" title="Google Play Store">
+                    <i class="fab fa-google-play"></i>
+                </a>
+                <a href="#" class="nav-link" title="App Store">
+                    <i class="fab fa-app-store-ios"></i>
+                </a>
+                
+            </nav>
+        </div>
+    </header>
 
+    <main class="main">
+        <div class="container">
 
-    <div class="portfolio-items">
+            <!--
+            <section class="hero">
+                <h1 class="hero-title"></h1>
+                <p class="hero-subtitle">
+                    
+                </p>
+            </section>
+            -->
 
-
-
-<!--
-****************************
-IMAGEN DEL PORTFOLIO
-****************************
--->
-
-        <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item juegodemesa">
-            <div class="portfolio-wrapper">
-                <div class="portfolio-single">
-                    <div class="portfolio-thumb">
-                    <a href="detailsTOA.html">
-                    <img src="images/portfolio/toa/icono250.png" class="img-responsive" alt="">
-                    </a>
-                    </div>
+            <section class="portfolio" id="portfolio">
+                <h2 class="section-title"></h2>
+                <div id="projects-grid" class="projects-grid">
+                    <!-- Los proyectos se cargarán aquí dinámicamente -->
                 </div>
-                <div class="portfolio-info"><h2></h2></div>
+            </section>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo"></div>
+                <span class="footer-company-name">oqubo</span>
             </div>
         </div>
+    </footer>
 
-        <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item videojuego">
-            <div class="portfolio-wrapper">
-                <div class="portfolio-single">
-                    <div class="portfolio-thumb">
-                    <a href="detailsElViajeVJ.html">
-                    <img src="images/portfolio/elviajevj/icono250.png" class="img-responsive" alt="">
-                    </a>
-                    </div>
-                </div>
-                <div class="portfolio-info"><h2></h2></div>
-            </div>
-        </div>
-
-        <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item videojuego">
-            <div class="portfolio-wrapper">
-                <div class="portfolio-single">
-                    <div class="portfolio-thumb">
-                      <a href="detailsAtraplas.html">
-                      <img src="images/portfolio/atraplas/icono250.png" class="img-responsive" alt="">
-                      </a>
-                    </div>
-                </div>
-                <div class="portfolio-info"><h2></h2></div>
-            </div>
-        </div>
-
-    
-
-
-<!--        
-        <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item videojuego">
-            <div class="portfolio-wrapper">
-                <div class="portfolio-single">
-                    <div class="portfolio-thumb">
-                      <a href="detailsACC.html">
-                      <img src="images/portfolio/acc/icono250.png" class="img-responsive" alt="">
-                      </a>
-                    </div>
-                </div>
-                <div class="portfolio-info"><h2></h2></div>
-            </div>
-        </div>
--->
-        
-            </div>
-        </div>
-    </section>
-    <!--/#portfolio-->
-
-
-
-      <script language="javascript" type="text/javascript" src="footer.js"></script>
-
-
-
-
-
-
+    <script src="script.js"></script>
 </body>
 </html>
