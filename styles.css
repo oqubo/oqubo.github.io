@@ -33,11 +33,11 @@
     --teal-dark: #373737;
     --beige-light: #F2DDD0;
     /* Colores aplicados */
-    --bg-card: var(--blue-deep);
+    --bg-card: var(--accent);
     --bg-alternative: var(--teal-dark);
     --accent-hover: var(--accent-soft);
     --button-primary: var(--blue-primary);
-    --text-special: var(--beige-light);
+    --text-special: var(--accent);
     --border: #404040;
     --shadow: rgba(0, 0, 0, 0.5);
     --border-radius: 12px;
@@ -466,7 +466,7 @@ body {
     gap: 0.5rem;
     padding: 0.8rem 1.2rem;
     background-color: var(--accent);
-    color: var(--text-special);
+    color: #111;
     text-decoration: none;
     border-radius: 8px;
     transition: var(--transition);
@@ -490,7 +490,7 @@ body {
     font-size: 1.2rem;
     font-weight: 600;
     margin-bottom: 1rem;
-    color: var(--text-special);
+    color: var(--accent);
 }
 
 .screenshots-grid {
@@ -508,7 +508,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: var(--text-secondary);
+    color: var(--accent-soft);
     cursor: pointer;
     transition: var(--transition);
     border: 1px solid var(--blue-primary);
