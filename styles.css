@@ -1,3 +1,14 @@
+@media (max-width: 600px) {
+    .modal-content {
+        max-width: 100vw;
+        max-height: 100vh;
+        width: 100vw;
+        height: 100vh;
+        border-radius: 0;
+        padding: 0;
+        box-shadow: none;
+    }
+}
 /* Reset y variables CSS */
 * {
     margin: 0;
@@ -76,7 +87,10 @@ body {
 }
 
 .logo-section {
-    }
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
 
     @media (max-width: 600px) {
         .image-modal-close {
