@@ -15,22 +15,33 @@
     
     /* Paleta complementaria */
     --accent-soft: #F299B9;
+
+    /* Variables de color adicionales */
     --blue-primary: #4e4e4e;
     --blue-deep: #6f6f6f;
     --teal-dark: #373737;
     --beige-light: #F2DDD0;
-    
     /* Colores aplicados */
     --bg-card: var(--blue-deep);
     --bg-alternative: var(--teal-dark);
     --accent-hover: var(--accent-soft);
     --button-primary: var(--blue-primary);
     --text-special: var(--beige-light);
-    
     --border: #404040;
     --shadow: rgba(0, 0, 0, 0.5);
     --border-radius: 12px;
     --transition: all 0.3s ease;
+}
+
+@media (max-width: 600px) {
+    .company-name {
+        font-size: 1.5rem;
+        letter-spacing: 0.8px;
+    }
+    
+    .logo-section:hover .company-name {
+        letter-spacing: 1px;
+    }
 }
 
 body {
@@ -65,6 +76,35 @@ body {
 }
 
 .logo-section {
+    }
+
+    @media (max-width: 600px) {
+        .image-modal-close {
+            top: -40px;
+            width: 35px;
+            height: 35px;
+            font-size: 1.2rem;
+        }
+    
+        .image-modal-info {
+            bottom: -50px;
+            font-size: 0.8rem;
+            padding: 8px 12px;
+        }
+    
+        .image-modal-nav {
+            width: 40px;
+            height: 40px;
+            font-size: 1.2rem;
+        }
+    
+        .image-modal-prev {
+            left: -60px;
+        }
+    
+        .image-modal-next {
+            right: -60px;
+        }
     display: flex;
     align-items: center;
     gap: 12px;

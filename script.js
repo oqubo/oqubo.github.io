@@ -6,8 +6,8 @@ const projects = [
         image: "img/toa/icono512.png",
         description: "THE OLDest ART es un juego de cartas familiar que combina diversión y aprendizaje, basado en ilustraciones prehistóricas reales de cuevas del norte de España. Con mecánica sencilla de descarte por estrategia, pueden jugar de 2 a 4 personas desde los seis años, en partidas cortas y dinámicas. Cada carta muestra un arte rupestre, su cueva de origen, temática y técnica, mientras que seis cartas de acción añaden giros inesperados. Sin necesidad de conocimientos previos, los jugadores aprenden a reconocer animales, colores y técnicas del Paleolítico.",
         platforms: [
-            { name: "Museo de Altamira", icon: "fas fa-store", url: "#" },
-            { name: "Centro de interpretación Tito Bustillo", icon: "fas fa-store", url: "#" }
+            { name: "Museo de Altamira", icon: "fas fa-store", url: "https://museoaltamira.com/" },
+            { name: "Centro de interpretación Tito Bustillo", icon: "fas fa-store", url: "https://www.centrotitobustillo.com/es/" }
         ],
         screenshots: [
             "img/toa/1.jpg",
