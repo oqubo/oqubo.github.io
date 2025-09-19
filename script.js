@@ -113,17 +113,18 @@ function renderProjects() {
             }
         });
         
-        // Mostrar solo iconos únicos
+        // Mostrar solo iconos únicos como enlaces sin texto
         uniqueIcons.forEach(platform => {
-            const icon = document.createElement('i');
-            icon.className = `platform-icon ${platform.icon}`;
-            
+            const link = document.createElement('a');
+            link.href = platform.url;
+            link.className = 'platform-link';
+            link.target = '_blank';
             // Crear título que incluya todos los lugares con ese icono
             const platformsWithSameIcon = project.platforms.filter(p => p.icon === platform.icon);
             const titleText = platformsWithSameIcon.map(p => p.name).join(', ');
-            icon.title = titleText;
-            
-            projectPlatforms.appendChild(icon);
+            link.title = titleText;
+            link.innerHTML = `<i class=\"platform-icon ${platform.icon}\"></i>`;
+            projectPlatforms.appendChild(link);
         });
         
         // Ensamblar la estructura
