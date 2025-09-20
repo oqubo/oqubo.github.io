@@ -701,11 +701,6 @@ body {
     z-index: 2001;
 }
 
-.image-modal-nav:hover {
-    background: var(--accent);
-    color: #111;
-    transform: scale(1.1);
-}
 
 .image-modal-prev {
     left: unset;
