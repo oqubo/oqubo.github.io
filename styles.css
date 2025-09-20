@@ -77,6 +77,27 @@ body {
 .header {
     background-color: var(--bg-secondary); /* gris claro */
     border-bottom: 1px solid var(--border);
+    .header {
+        padding: 0.5rem 0;
+    }
+    .header .container {
+        gap: 8px;
+    }
+    .logo-placeholder {
+        width: 70px;
+        height: 70px;
+    }
+    .company-name {
+        font-size: 1.7rem;
+        letter-spacing: 1px;
+    }
+    .nav-link {
+        font-size: 1.2rem;
+        padding: 8px;
+    }
+            margin: 0 !important;
+            border: none !important;
+            box-shadow: none !important;
     padding: 1rem 0;
     position: sticky;
     top: 0;
