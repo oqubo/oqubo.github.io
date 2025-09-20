@@ -250,10 +250,23 @@ body {
 
 .projects-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: repeat(3, 1fr);
     gap: 7rem 2rem; /* Aumentado de 5rem a 7rem el espacio vertical */
     padding: 1rem 0 5rem 0; /* Aumentado el padding inferior */
 }
+
+@media (max-width: 900px) {
+    .projects-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 600px) {
+    .projects-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
 
 /* Wrapper para cada proyecto */
 .project-wrapper {
