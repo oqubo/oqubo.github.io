@@ -652,13 +652,13 @@ body {
     position: absolute;
     top: 20px;
     right: 20px;
-    background: var(--accent);
+    background: var(--accent-soft);
     color: #111;
     border: none;
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     cursor: pointer;
     transition: var(--transition);
     display: flex;
@@ -668,8 +668,8 @@ body {
 }
 
 .image-modal-close:hover {
-    background: var(--accent-soft);
-    color: #111;
+    background: var(--accent);
+    color: #fff;
     transform: rotate(90deg) scale(1.1);
 }
 
