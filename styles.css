@@ -675,18 +675,11 @@ body {
 
 /* Información de la imagen */
 .image-modal-info {
-    position: absolute;
-    bottom: -60px;
-    left: 0;
-    right: 0;
-    text-align: center;
-    color: var(--text-special);
-    font-size: 0.9rem;
-    background: rgba(64, 59, 37, 0.9);
-    padding: 10px 15px;
-    border-radius: var(--border-radius);
-    backdrop-filter: blur(10px);
-    border: 1px solid var(--accent-soft);
+    display: none !important;
+    height: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    background: none !important;
 }
 
 /* Navegación entre imágenes */
