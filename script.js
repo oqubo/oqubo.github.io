@@ -316,9 +316,11 @@ function createImageModal() {
     imageModal.innerHTML = `
         <div class="image-modal-content">
             <button class="image-modal-close" onclick="closeImageModal()">&times;</button>
-            <button class="image-modal-nav image-modal-prev" onclick="previousImage()">&#8249;</button>
             <img src="" alt="">
-            <button class="image-modal-nav image-modal-next" onclick="nextImage()">&#8250;</button>
+            <div class="image-modal-nav-group">
+                <button class="image-modal-nav image-modal-prev" onclick="previousImage()">&#8249;</button>
+                <button class="image-modal-nav image-modal-next" onclick="nextImage()">&#8250;</button>
+            </div>
             <div class="image-modal-info"></div>
         </div>
     `;

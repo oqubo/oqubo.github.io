@@ -1,3 +1,12 @@
+/* Agrupación de botones de navegación en el modal de imagen */
+.image-modal-nav-group {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    margin-top: 20px;
+}
 @media (max-width: 600px) {
     .modal-content {
         max-width: 100vw;
@@ -682,19 +691,18 @@ body {
 
 /* Navegación entre imágenes */
 .image-modal-nav {
-    position: absolute;
-    top: 20px;
-    transform: none;
+    position: static;
+    margin: 20px 10px 0 10px;
     background: var(--accent-soft);
     color: #111;
     border: none;
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
     border-radius: 50%;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     cursor: pointer;
     transition: var(--transition);
-    display: flex;
+    display: inline-flex;
     align-items: center;
     justify-content: center;
     z-index: 2001;
@@ -707,13 +715,13 @@ body {
 }
 
 .image-modal-prev {
-    left: 20px;
-    right: auto;
+    left: unset;
+    right: unset;
 }
 
 .image-modal-next {
-    right: 75px;
-    left: auto;
+    right: unset;
+    left: unset;
 }
 
 /* Ocultar navegación si no hay múltiples imágenes */
