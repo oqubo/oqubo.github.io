@@ -387,15 +387,20 @@ body {
 .modal-content {
     background: var(--bg-secondary); /* fondo modal gris claro */
     border-radius: 0;
-    max-width: 100vw;
     width: 100vw;
-    max-height: 100vh;
     height: 100vh;
-    overflow-y: auto;
-    position: relative;
+    max-width: 100vw;
+    max-height: 100vh;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
     border: none;
     box-shadow: none;
-    padding: 0;
 }
 
 .modal-header {
